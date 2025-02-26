@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-26 09:42:10（北京时间）
+! Version: 2025-02-26 16:31:30（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108381
+! Total count: 108377
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -28607,7 +28607,6 @@
 ||aminopay.net^
 ||amitracks.actonservice.com^
 ||amjllwblmlbrj.top^
-||amjllwbovlvbb.top^
 ||amjllwbovlyba.top^
 ||amjoltiktor.com^
 ||amjsiksirkh.com^
@@ -34106,7 +34105,6 @@
 ||bewr1.com^
 ||bewrapsstomal.website^
 ||bewrutv.top^
-||bewvyttjhgphvb.xyz^
 ||beyanmaan.com^
 ||beyond.bluewolf.com^
 ||beyondwickedmapping.org^
@@ -35024,7 +35022,6 @@
 ||bouwofiwoaph.net^
 ||bovid.neural.love^
 ||bovytl.xyz^
-||bowcircle.com^
 ||bowedcounty.com^
 ||boweddemand.com^
 ||bowelslipperypraised.com^
@@ -38421,6 +38418,7 @@
 ||clientlog.music.163.com^
 ||clientlog3.music.163.com^
 ||clientlogdep.music.163.com^
+||clientlogger.marketplace.aws.a2z.com^
 ||clientlogsf.music.163.com^
 ||clientmetrics-augmentum.kik.com^
 ||clientmetrics-pa.googleapis.com^
@@ -48075,6 +48073,7 @@
 ||epicgolive.rainresources.com^
 ||epicsambari.click^
 ||epilinserts.com^
+||epimetheus.navigator.gmx.net^
 ||epimetheus.navigator.web.de^
 ||epiv.cardlytics.com^
 ||epixkf.dentrodahistoria.com.br^
@@ -51053,7 +51052,6 @@
 ||frog.yuanfudao.com^
 ||froglytics.eventfrog.ch^
 ||frolnk.com^
-||frombatmuch.live^
 ||fromhttptohttps.atea.fi^
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
@@ -56277,7 +56275,6 @@
 ||icyads.com^
 ||icyporno.com^
 ||icyreprimandlined.com^
-||icyyapemu.com^
 ||id-ward.com^
 ||id4.guesswhatnews.com^
 ||id5-sync.com^
@@ -60293,7 +60290,6 @@
 ||jufhxk.audienhearing.com^
 ||juftujelsou.net^
 ||jugerfowells.com^
-||jugjetwok.com^
 ||juhlkuu.com^
 ||juiceadv.com^
 ||juiceadv.net^
@@ -61058,7 +61054,6 @@
 ||know.gardner-webb.edu^
 ||know.gimmal.com^
 ||know.wolterskluwerlr.com^
-||knowbetnow.live^
 ||knowd.com^
 ||knowens.com^
 ||knowfloor.com^
@@ -66923,7 +66918,6 @@
 ||marvedesderef.info^
 ||marvelbuds.com^
 ||marybskitchen.com^
-||mas-e.cds1.yospace.com^
 ||mas.hronboard.me^
 ||mas.marsh.com^
 ||mas.nth.ch^
@@ -75112,6 +75106,7 @@
 ||paussidsipage.com^
 ||pavedmawks.top^
 ||pavisordjerib.com^
+||pavoboxapp.com^
 ||pavoshare.com^
 ||pavv.co.kr^
 ||pawbothcompany.com^
@@ -95028,6 +95023,7 @@
 ||teraes.hgreg.com^
 ||teralog.techhub.co.kr^
 ||teraphessed.guru^
+||teraverseapp.com^
 ||terbit2.com^
 ||tercabilis.info^
 ||terciogouge.com^
