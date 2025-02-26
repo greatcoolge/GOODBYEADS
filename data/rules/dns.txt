@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-02-26 20:15:44（北京时间）
+! Version: 2025-02-27 05:55:09（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108414
+! Total count: 108436
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -13219,7 +13219,6 @@
 ||40ceexln7929.com^
 ||40cg.com^
 ||40dd6c8f55.5b7cb7236e.com^
-||40hardcore.galleryprogram.com^
 ||41.tegronews.com^
 ||4100.gofenews.com^
 ||4100.reminews.com^
@@ -29859,7 +29858,6 @@
 ||antico.openapp.link^
 ||anticodistretto.com^
 ||anticosm.com^
-||antidiskcaught.com^
 ||antifa.co.at^
 ||antiquarianjenny.com^
 ||antiquespecialtyimpure.com^
@@ -35014,6 +35012,7 @@
 ||bouncingcombine.com^
 ||bouncy-wheel.pro^
 ||boundarygoose.com^
+||boundersapele.com^
 ||boupeeli.com^
 ||bourrepardale.com^
 ||boustahe.com^
@@ -35404,6 +35403,7 @@
 ||brinkprovenanceamenity.com^
 ||brinstascooter.eccocar.com^
 ||brioletredeyes.com^
+||brionyamanist.com^
 ||brioscoot.eccocar.com^
 ||brircel.com^
 ||briskeagle.io^
@@ -39264,6 +39264,7 @@
 ||complainttattooshy.com^
 ||complementinstancesvarying.com^
 ||complete-afternoon.pro^
+||completeminimum.pro^
 ||complexastare.shop^
 ||compliance.coniferhealth.com^
 ||compliance.govdocs.com^
@@ -40799,6 +40800,7 @@
 ||cubiclerunner.com^
 ||cubicnought.com^
 ||cubics.com^
+||cuboidmewlers.com^
 ||cucaftultog.net^
 ||cucaido.abphotos.link^
 ||cuckoo.clientrock.app^
@@ -41055,6 +41057,7 @@
 ||cxlvlbx.xyz^
 ||cxm.ingeniux.com^
 ||cxmolk.com^
+||cxornpyay.com^
 ||cxrfns.gu-global.com^
 ||cxrptu.danland.dk^
 ||cxsaev.stratiaskin.com^
@@ -41391,6 +41394,7 @@
 ||d1dqwj4dc78lwy.cloudfront.net^
 ||d1e28xq8vu3baf.cloudfront.net^
 ||d1e3vw6pz2ty1m.cloudfront.net^
+||d1e51ovcxdu97v.cloudfront.net^
 ||d1e9rtdi67kart.cloudfront.net^
 ||d1ebha2k07asm5.cloudfront.net^
 ||d1eeht7p8f5lpk.cloudfront.net^
@@ -43921,6 +43925,7 @@
 ||desgao1zt7irn.cloudfront.net^
 ||desgolurkom.com^
 ||deshelioptiletor.com^
+||deshouroup.xyz^
 ||design.informabi.com^
 ||design.nanawall.com^
 ||designatejay.com^
@@ -44254,6 +44259,7 @@
 ||dianomi.com^
 ||dianomioffers.co.uk^
 ||diaperdollrelevant.com^
+||diav.cn^
 ||diazoestmark.guru^
 ||dibbuksnoonlit.shop^
 ||diboji.class101.net^
@@ -44530,7 +44536,6 @@
 ||dimfarlow.com^
 ||dimlmhowvkrag.xyz^
 ||dimmerlingowashable.com^
-||dimmosit.live^
 ||dimnaamebous.com^
 ||dimnessinvokecorridor.com^
 ||dimnessslick.com^
@@ -45854,6 +45859,7 @@
 ||dummymerchandise.com^
 ||dumpaudible.com^
 ||dumpconfinementloaf.com^
+||dumpleoxidic.com^
 ||dumplingclubhousecompliments.com^
 ||dumpster.cam4.com^
 ||dun8qk8.lkmxqq.com^
@@ -46430,6 +46436,7 @@
 ||eauicw.artnature.co.jp^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
+||eautifulasaweathercoc.org^
 ||eavefrom.net^
 ||eavesdroplimetree.com^
 ||eavesofefinegoldf.info^
@@ -59410,6 +59417,7 @@
 ||jaggedunaccustomeddime.com^
 ||jagnoans.com^
 ||jagransolutions.com.actonservice.com^
+||jaifeeveely.com^
 ||jaifoptafoog.com^
 ||jailabridge.com^
 ||jaimirozadair.net^
@@ -70532,6 +70540,7 @@
 ||muckilywayback.top^
 ||mucvvcbqrwfmir.com^
 ||mud4.destinia.com.eg^
+||mudacban.com^
 ||muddedcarboys.com^
 ||muddiedbubales.com^
 ||muddyharold.com^
@@ -74817,6 +74826,7 @@
 ||palaroleg.guru^
 ||palatablelay.pro^
 ||palatedaylight.com^
+||paleaehowking.com^
 ||palecount.com^
 ||paleexamsletters.com^
 ||paleogdeedful.top^
@@ -75522,6 +75532,7 @@
 ||petrolgraphcredibility.com^
 ||petrosunnier.shop^
 ||pets.channeladvisor.com^
+||pettlesmethol.com^
 ||pettyachras.shop^
 ||petulanthamsterunless.com^
 ||petuneaffrap.click^
@@ -77089,6 +77100,7 @@
 ||predictivdisplay.com^
 ||predominanttamper.com^
 ||predownset.shop^
+||predrawfixed.top^
 ||prefecturecagesgraphic.com^
 ||prefecturesolelysadness.com^
 ||preferablycarbon.com^
@@ -78244,6 +78256,7 @@
 ||putrr7.com^
 ||putwandering.com^
 ||puvj-qvbjol.vip^
+||puwhoughaugn.com^
 ||puwkcqp.icu^
 ||puwpush.com^
 ||puysis.com^
@@ -79156,7 +79169,6 @@
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r4u.icu^
-||r5.dir.bg^
 ||r541.houstonchronicle.com^
 ||r566.timescall.com^
 ||r6.galya.ru^
@@ -79267,6 +79279,7 @@
 ||rambobf.com^
 ||rambograntee.com^
 ||rameattot.com^
+||rameshdeisin.com^
 ||rametbaygall.shop^
 ||ramieuretal.com^
 ||rammishruinous.com^
@@ -79611,6 +79624,7 @@
 ||recentrecentboomsettlement.com^
 ||recentteem.com^
 ||receptiongrimoddly.com^
+||recessionspeaksanybody.com^
 ||recesslikeness.com^
 ||recesslotdisappointed.com^
 ||rechannelapi.com^
@@ -80040,6 +80054,7 @@
 ||renaissanto.com^
 ||renamedhourstub.com^
 ||renaultbankdirekt.efscle.com^
+||rencessedessations.com^
 ||rencontreadultere.club^
 ||rencontresparis2015.com^
 ||rendchewed.com^
@@ -81145,6 +81160,7 @@
 ||rscilnmkkfbl.com^
 ||rsfmzirxwg.com^
 ||rsinqg.homelux.hu^
+||rsirkdevvgn.com^
 ||rsjagnea.com^
 ||rsldfvt.com^
 ||rsohvot.xyz^
@@ -83091,6 +83107,7 @@
 ||schoolnotwithstandingconfinement.com^
 ||schoolunmoved.com^
 ||schoonnonform.com^
+||schrankdecker.com^
 ||schwacke.autovistagroup.com^
 ||schwaebischhall.efscle.com^
 ||sci.intuit.ca^
@@ -83259,7 +83276,6 @@
 ||sdamcsb.top^
 ||sdarot-il.org^
 ||sdarot-tv.org^
-||sdarot.cc^
 ||sdata.avid.com^
 ||sdata.chelseafc.com^
 ||sdata.connection.com^
@@ -93390,6 +93406,7 @@
 ||swlogic.wpu.sh^
 ||swmhdata.stuttgarter-nachrichten.de^
 ||swmhdata.stuttgarter-zeitung.de^
+||swomanifefashionis.org^
 ||swoonseneid.com^
 ||swoopanomalousgardener.com^
 ||swoopkennethsly.com^
@@ -94927,6 +94944,7 @@
 ||teijgy.herveleger.com^
 ||teindsoutsea.shop^
 ||teinlbw.com^
+||tejoafotocmal.com^
 ||teknologia.co^
 ||teksishe.net^
 ||tektosfolic.com^
@@ -100746,6 +100764,7 @@
 ||umjcamewiththe.info^
 ||umoxomv.icu^
 ||umpedshumal.com^
+||umpiresmagpied.com^
 ||umqmxawxnrcp.com^
 ||umrvmb.net.anwalt.de^
 ||umsns.com^
@@ -102590,6 +102609,7 @@
 ||voudl.club^
 ||vougaipte.net^
 ||vounesto.com^
+||vounooptouphu.net^
 ||vouribere.com^
 ||vouwhowhaca.net^
 ||vouzpu.tokyolife.co.jp^
@@ -103982,6 +104002,7 @@
 ||whoomseezesh.com^
 ||whoopblew.com^
 ||whoopseelratiy.net^
+||whoortaglauck.net^
 ||whoostoo.net^
 ||whootitoukrol.net^
 ||whoppercreaky.com^
@@ -107833,6 +107854,7 @@
 ||zaikasoatie.xyz^
 ||zaimads.com^
 ||zaishasoopt.com^
+||zaistouzit.net^
 ||zaiteegraity.net^
 ||zaiuhu.vacatia.com^
 ||zaizaigut.net^
