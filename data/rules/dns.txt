@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-02 08:42:38（北京时间）
+! Version: 2025-03-02 20:13:36（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108879
+! Total count: 108881
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -27885,6 +27885,7 @@
 ||ailcloister.com^
 ||ailil-fzt.com^
 ||ailla.abphotos.link^
+||aillaeuyn.com^
 ||ailrouno.net^
 ||ailtodsookr.com^
 ||aim4media.com^
@@ -28691,7 +28692,6 @@
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
-||ampower.me^
 ||amppidarwoqg.com^
 ||amptrack-dailymail-co-uk.cdn.ampproject.org^
 ||ampxchange.com^
@@ -46270,7 +46270,6 @@
 ||e0593385f7.f59408d48d.com^
 ||e076.xyz^
 ||e082.ukiahdailyjournal.com^
-||e09a290e1b.com^
 ||e0ad1f3ca8.com^
 ||e0e5bc8f81.com^
 ||e0ed824f8b.9bbbabcb26.com^
@@ -52915,6 +52914,7 @@
 ||gmufag.nn.ru^
 ||gmufag.starhit.ru^
 ||gmufag.woman.ru^
+||gmwqpgq.top^
 ||gmxcdm.vestel.com.tr^
 ||gmxvmvptfm.com^
 ||gmxysb.icu^
@@ -80970,6 +80970,7 @@
 ||rhxdsplm.com^
 ||rhybey.gap.co.jp^
 ||rhythmxchange.com^
+||rhzofr.icu^
 ||rhzvlcu.xyz^
 ||riamiavid.com^
 ||riaoz.xyz^
@@ -105206,6 +105207,7 @@
 ||wuliao.chzsport.cn^
 ||wuliao.epro.sogou.com^
 ||wuliao.juqingba.cn^
+||wumd.cn^
 ||wumufama.com^
 ||wunishamjch.com^
 ||wup-185a61e7.bendigobank.com.au^
