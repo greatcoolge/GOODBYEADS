@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-09 20:11:03（北京时间）
+! Version: 2025-03-10 08:34:51（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 108103
+! Total count: 108123
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -4621,6 +4621,7 @@
 ||1437953666.rsc.cdn77.org^
 ||1438.gofenews.com^
 ||1438.reminews.com^
+||14381834.xyz^
 ||1438976156.recolution.de^
 ||1439.gofenews.com^
 ||1439.reminews.com^
@@ -33048,6 +33049,7 @@
 ||bioces.com^
 ||biographyaudition.com^
 ||biolw.cloud^
+||biophorcurving.shop^
 ||biophysicsgroup.actonservice.com^
 ||biopsyheadless.com^
 ||biopsyintruder.com^
@@ -33059,6 +33061,7 @@
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
 ||bird.webitizevoice.com^
+||birderpulas.top^
 ||birdnavy.com^
 ||birlingtriced.top^
 ||biroacitups.net^
@@ -35226,6 +35229,7 @@
 ||cap-cap-pop.com^
 ||capaciousdrewreligion.com^
 ||capawhile.com^
+||capefast.com^
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
@@ -39456,6 +39460,7 @@
 ||csdf4dn.pro^
 ||csdsa22.fun^
 ||cse3.chausport.com^
+||cseuegsbjb.com^
 ||csfds000.fun^
 ||csghyg.reginaclinic.jp^
 ||cshbglcfcmirnm.xyz^
@@ -40569,6 +40574,7 @@
 ||d2cmqkwo8rxlr9.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2cq71i60vld65.cloudfront.net^
+||d2cqjjokdc31wb.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2db10c4rkv9vb.cloudfront.net^
 ||d2dkurdav21mkk.cloudfront.net^
@@ -44873,6 +44879,7 @@
 ||dyj8pbcnat4xv.cloudfront.net^
 ||dykwdhfiuha6l.cloudfront.net^
 ||dylop.xyz^
+||dylovehehasnoconv.com^
 ||dymoqrupovgefjq.com^
 ||dymwsh1c2kslr.cloudfront.net^
 ||dyn.empflix.com^
@@ -49825,6 +49832,7 @@
 ||fqghykp.cn^
 ||fqhnnknhufocejx.com^
 ||fqirjff.com^
+||fqnhjt.icu^
 ||fqppgv.cheapoair.com^
 ||fqqcfpka-ui.top^
 ||fqtadpehoqx.com^
@@ -55526,6 +55534,7 @@
 ||ijaabm.usanetwork.com^
 ||ijafud.heathcotes.co.nz^
 ||ijaurdus.xyz^
+||ijbaawqolrhpd.site^
 ||ijdcvctkalyb.xyz^
 ||ijeujkdhnvb.top^
 ||ijgirhdspgu.xyz^
@@ -59511,6 +59520,7 @@
 ||jzeapwlruols.com^
 ||jzgfhr.nordicnest.com^
 ||jzleekzaovelw.top^
+||jzokkejvjrvrb.top^
 ||jzoxch.menswearhouse.com^
 ||jzplabcvvy.com^
 ||jzprtb.1stdibs.com^
@@ -60940,6 +60950,7 @@
 ||lb.service01.email-allstate.com^
 ||lb.usemaxserver.de^
 ||lbc.lesbonscommerces.fr^
+||lbdfynckjyqbau.xyz^
 ||lbfuvlyp.icu^
 ||lbfwxr.icu^
 ||lbgfqn.onward.co.jp^
@@ -61164,6 +61175,7 @@
 ||leisurelypizzascarlet.com^
 ||lekaleregoldfor.com^
 ||lekfso.hitohana.tokyo^
+||lelczf.icu^
 ||lelesidesukbeing.info^
 ||lelrouxoay.com^
 ||lelruftoutufoux.net^
@@ -63760,6 +63772,7 @@
 ||lustasserted.com^
 ||lusupodum.com^
 ||lutachechu.pro^
+||lutn.cn^
 ||lutoorgourgi.com^
 ||luumhi.whatonearthcatalog.com^
 ||luuming.com^
@@ -75032,6 +75045,7 @@
 ||picturesquesizedisabled.com^
 ||picturestash.mom^
 ||piddme.buyma.com^
+||pieairshed.top^
 ||pieceresponsepamphlet.com^
 ||pieclayton.com^
 ||pienbitore.com^
@@ -78150,6 +78164,7 @@
 ||quaintmembershipprobably.com^
 ||quaintorgic.digital^
 ||quaizoa.xyz^
+||qualaroo.com^
 ||qualiclicks.com^
 ||qualification2.fun^
 ||qualificationsomehow.com^
@@ -81890,6 +81905,7 @@
 ||salivanmobster.com^
 ||salivatreatment.com^
 ||salleamebean.com^
+||sallecoast.shop^
 ||sallibted.live^
 ||salliesjoll.shop^
 ||sallyfundamental.com^
@@ -82635,6 +82651,7 @@
 ||scuhuh.cucannetshop.jp^
 ||sculptorpound.com^
 ||scurra.space^
+||scurrilidylian.shop^
 ||scutesneatest.com^
 ||scuvcc.sportmax.com^
 ||scuzgq.greencell.global^
@@ -84218,6 +84235,7 @@
 ||shelfcandler.shop^
 ||shelfoka.com^
 ||shell-recharge.tupinambaenergia.com.br^
+||shelluiqy.com^
 ||shelourdoals.net^
 ||sheltermilligrammillions.com^
 ||shemalemodelstube.com/fun^
@@ -91902,6 +91920,7 @@
 ||stockingplaice.com^
 ||stockingsight.com^
 ||stocksinvulnerablemonday.com^
+||stodgedhurtled.top^
 ||stogmos.com^
 ||stogroukrilsoo.net^
 ||stolenforensicssausage.com^
@@ -102337,6 +102356,7 @@
 ||vyeysj.foto-mundus.de^
 ||vyfrxuytzn.com^
 ||vyhpoooamxdhmg.com^
+||vyhxugizkaktg.tech^
 ||vyjwxc.elemis.com^
 ||vyocqq.com^
 ||vyplzy.job-medley.com^
