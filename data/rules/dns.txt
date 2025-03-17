@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-17 08:42:32（北京时间）
+! Version: 2025-03-17 20:15:59（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 103485
+! Total count: 103486
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -6959,7 +6959,6 @@
 ||3200.gofenews.com^
 ||3200562.notifysrv.com^
 ||3201.reminews.com^
-||3201cba126.com^
 ||3203.deeginews.com^
 ||3204.gofenews.com^
 ||3204.reminews.com^
@@ -9026,7 +9025,6 @@
 ||3c7ffefcb5.77b0d74a17.com^
 ||3cb9b57efc.com^
 ||3cg6sa78w.com^
-||3cloud.net^
 ||3d-hentai.de^
 ||3d.notifysrv.com^
 ||3d2672504b.d1523a346a.com^
@@ -14261,7 +14259,6 @@
 ||99jinpin.com^
 ||9a55672b0c.com^
 ||9a71b08258.com^
-||9a7f507754.com^
 ||9a857c6721.com^
 ||9aad7115.amy.gs^
 ||9ad4356ab3.47ff1d5b15.com^
@@ -19458,7 +19455,6 @@
 ||ad-balancer.net^
 ||ad-bay.com^
 ||ad-brix.com^
-||ad-cache.dopool.com^
 ||ad-cdn.qingting.fm^
 ||ad-center.com^
 ||ad-channel.wikawika.xyz^
@@ -19615,6 +19611,7 @@
 ||ad.holmesmind.com^
 ||ad.hot-mob.com^
 ||ad.houkei-shinjuku.com^
+||ad.hpplay.cn^
 ||ad.hutor.ru^
 ||ad.hyena.cz^
 ||ad.icheck.com.vn^
@@ -19772,7 +19769,6 @@
 ||ad.wurangxian.top^
 ||ad.wynk.in^
 ||ad.wz.cz^
-||ad.xelements.cn^
 ||ad.xiaomi.com^
 ||ad.ximalaya.com^
 ||ad.xrea.com^
@@ -20144,6 +20140,7 @@
 ||adecn.com^
 ||adelphic.net^
 ||ademails.com^
+||adeng.hpplay.cn^
 ||adengage.com^
 ||adentifi.com^
 ||adenza.dev^
@@ -20903,7 +20900,6 @@
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
 ||ads.hentaiheart.com^
-||ads.heytapmobi.com^
 ||ads.heytapmobile.com^
 ||ads.hollywood.com^
 ||ads.home.vn^
@@ -21727,7 +21723,6 @@
 ||advertise.com^
 ||advertiseconclusiveactual.com^
 ||advertiseireland.com^
-||advertiseonbing.azureedge.net^
 ||advertisers.app-shake.com^
 ||advertisers.revenuehits.com^
 ||advertiserurl.com^
@@ -21865,7 +21860,6 @@
 ||adxfire.net^
 ||adxhand.name^
 ||adxion.com^
-||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||adxnexus.com^
 ||adxpansion.com^
@@ -23103,7 +23097,6 @@
 ||amcmuhu.com^
 ||amdahlryes.com^
 ||amdcopen.m.taobao.com^
-||amdcopen.m.umeng.com^
 ||amelatrina.com^
 ||amendableirritatingprotective.com^
 ||amendablesloppypayslips.com^
@@ -23251,6 +23244,7 @@
 ||amvtwk.thebottleclub.com^
 ||amwatching.com^
 ||amxpceol.com^
+||amyapad.top^
 ||amyfixesfelicity.com^
 ||amylo.site^
 ||amylonbenne.shop^
@@ -23411,7 +23405,6 @@
 ||analytics-v2.wetransfer.com^
 ||analytics-wcms.joins.net^
 ||analytics-zone-1.api.leadfamly.com^
-||analytics.126.net^
 ||analytics.163.com^
 ||analytics.1800contacts.com^
 ||analytics.21cn.com^
@@ -24770,7 +24763,6 @@
 ||apiyd.my91app.com^
 ||apk02061oo.xyz^
 ||apk02070oo.xyz^
-||apks.webxiaobai.top^
 ||apl.headlines.pw^
 ||apllogistics.actonservice.com^
 ||aplobv.xexymix.com^
@@ -27320,7 +27312,6 @@
 ||azotizeloofas.com^
 ||azotvby.com^
 ||azq.zozo.jp^
-||azr.footprintdns.com^
 ||azscgj.penningtons.com^
 ||azskk.com^
 ||azsqkrc.icu^
@@ -29043,6 +29034,7 @@
 ||bknqpb.dobredomy.pl^
 ||bkogtr.vacationsbyrail.com^
 ||bkojzevpe.com^
+||bkox.cn^
 ||bkpoef.jules.com^
 ||bkr5xeg0c.com^
 ||bkrkv.com^
@@ -31048,7 +31040,6 @@
 ||candidate.response.ingenovishealth.com^
 ||candiddugprecedent.com^
 ||candiedguilty.com^
-||candiedsquall.com^
 ||candleannihilationretrieval.com^
 ||candouraggravate.com^
 ||candy-network.com^
@@ -31631,6 +31622,7 @@
 ||cdn.hjklq.com^
 ||cdn.holenhw.com^
 ||cdn.house^
+||cdn.hpplay.com.cn^
 ||cdn.hqwa.xyz^
 ||cdn.htkcm.com^
 ||cdn.ianjumb.com^
@@ -32403,6 +32395,7 @@
 ||choppersnaps.click^
 ||choppyevectic.shop^
 ||choptacache.com^
+||chorninsm.com^
 ||chortutsoufu.xyz^
 ||choruscompanion.com^
 ||choruslockdownbumpy.com^
@@ -33953,6 +33946,7 @@
 ||condyleboggart.com^
 ||conestreshow.com^
 ||conetizable.com^
+||conf.hpplay.cn^
 ||conf.optum.com^
 ||confabureas.com^
 ||confe.dc.oppomobile.com^
@@ -38078,7 +38072,6 @@
 ||dd4ef151bb.com^
 ||dd5.lookinews.com^
 ||dd5889a9b4e234dbb210787.com^
-||dd5eca7281.com^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dd9l0474.de^
 ||ddb6f742cc.f3010e5e7a.com^
@@ -43433,7 +43426,6 @@
 ||evile.co.uk^
 ||evilsbedont.de^
 ||evjrrljcfohkvja.xyz^
-||evkc.com^
 ||evkjai.grandado.com^
 ||evkzqs.xyz^
 ||evlsn.com^
@@ -46078,6 +46070,7 @@
 ||g.bitmag.com.br^
 ||g.bloblohub.com^
 ||g.doubleclick.net^
+||g.dtv.cn.miaozhen.com^
 ||g.ezodn.com^
 ||g.gegeyingshi.com^
 ||g.getsimpler.me^
@@ -48669,6 +48662,7 @@
 ||gsg9.carrefour-banque.fr^
 ||gsibxuwrysrws.xyz^
 ||gsjln04hd.com^
+||gslb.hpplay.cn^
 ||gslive.edm.globalsources.com^
 ||gsmatch.edm.globalsources.com^
 ||gsmqez.xcite.com^
@@ -48986,6 +48980,7 @@
 ||h4o565egjgi0v4bz.hubhubhub.name^
 ||h5.analytics.126.net^
 ||h5.guesswhatnews.com^
+||h5.hpplay.com.cn^
 ||h5.isnssdk.com^
 ||h5.lookinews.com^
 ||h516.thereporteronline.com^
@@ -50291,6 +50286,7 @@
 ||hottedholster.com^
 ||hottercensorbeaker.com^
 ||hotty.sweetadforu.cc^
+||hotupgrade.hpplay.cn^
 ||hotvideoaugust.guesswhatnews.com^
 ||hotvideoaugust.lycheenews.com^
 ||hotvideos18plus.loopanews.com^
@@ -50378,7 +50374,7 @@
 ||hpn-collector.cliqz.com^
 ||hpninfo.hoopis.com^
 ||hpnkctxx.buzz^
-||hpplay.cn^
+||hpplay.cdn.cibn.cc^
 ||hppvkbfcuq.com^
 ||hpqalsqjr.com^
 ||hpskiqiafxshdf.com^
@@ -51045,7 +51041,6 @@
 ||idipsumo.top^
 ||iditero.top^
 ||idkom.com^
-||idl.pl^
 ||idleslowish.shop^
 ||idlishwastine.com^
 ||idlqzb.puntoscolombia.com^
@@ -51332,6 +51327,7 @@
 ||image.ard.de^
 ||image.deginvest.de^
 ||image.go.aricent.com^
+||image.hpplay.cn^
 ||image.info.perkinelmer.com^
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw-formularsammlung.de^
@@ -51898,6 +51894,7 @@
 ||imc.l.qq.com^
 ||imcdn.pro^
 ||imcod.net^
+||imdns.hpplay.cn^
 ||imedia.cz^
 ||imeetcentral.pgi.com^
 ||imeto.site^
@@ -52114,7 +52111,6 @@
 ||impservice*.youdao.com^
 ||impureattirebaking.com^
 ||imrworldwide.com^
-||imtmp.net^
 ||imtwjwoasak.com^
 ||imuhmgptdoae.com^
 ||imusye.xyz^
@@ -66815,7 +66811,6 @@
 ||notorietyobservation.com^
 ||notorietyterrifiedwitty.com^
 ||notoriouscount.com^
-||notquiteso.buzz^
 ||notrobot.top^
 ||notspecial.biz^
 ||nougacoush.com^
@@ -70568,6 +70563,7 @@
 ||phumsise.com^
 ||phurdoutchouz.net^
 ||phuruxoods.com^
+||phuustikd.com^
 ||phvylw.beurer-shop.de^
 ||phxdrf.icu^
 ||phygfasvnnjrg.life^
@@ -70677,6 +70673,7 @@
 ||pimentoutas.click^
 ||pimpoint.inriver.com^
 ||pimproll.com^
+||pin.hpplay.cn^
 ||pinaffectionatelyaborigines.com^
 ||pincersnap.com^
 ||pinchingoverridemargin.com^
@@ -71489,6 +71486,7 @@
 ||polite1266.fun^
 ||politemischievous.com^
 ||politesewer.com^
+||political-effort.com^
 ||politiciancuckoo.com^
 ||polityimpetussensible.com^
 ||poll.pollinatepolls.com^
@@ -72373,7 +72371,6 @@
 ||promotionspr.actonservice.com^
 ||promptofficemillionaire.com^
 ||promptsgod.com^
-||pronetadvertising.com^
 ||pronouncedgetawayetiquette.com^
 ||pronouncedlaws.com^
 ||pronounlazinessunderstand.com^
@@ -75896,6 +75893,7 @@
 ||royallycuprene.com^
 ||royzgi.giftishow.com^
 ||rozamimo9za10.com^
+||rp.hpplay.cn^
 ||rpazaa.xyz^
 ||rpeutxu.icu^
 ||rpfkgf.rp-online.de^
@@ -78201,6 +78199,7 @@
 ||sdk.starbolt.io^
 ||sdk.stats-locations.com^
 ||sdk4push.com^
+||sdkauth.hpplay.cn^
 ||sdkconf.avlyun.com^
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
@@ -80304,6 +80303,7 @@
 ||skyxqbbv.xyz^
 ||sl-h-statistics-ch-1.storeland.ru^
 ||sl.elinvarpayola.com^
+||sl.hpplay.cn^
 ||sl.trycircle.com^
 ||slabjav12.fun^
 ||slabshookwasted.com^
@@ -86153,7 +86153,6 @@
 ||static.winporn.com/upload/banners^
 ||static.wlct-one.de^
 ||static.wwoz.org^
-||static.wxqcloud.qq.com.cn^
 ||static.xeloop.com^
 ||static.xmlking.com^
 ||static.xmlmonetize.com^
@@ -94862,6 +94861,7 @@
 ||tubevideos.biz^
 ||tubewalk.com^
 ||tubfurryhen.com^
+||tubingacater.com^
 ||tubpwpxupjrw.com^
 ||tubroaffs.org^
 ||tuckedmajor.com^
@@ -94960,6 +94960,7 @@
 ||tv-test.esvdigital.com^
 ||tv.totaljobs.com^
 ||tv7oehyiet9c7dnw.833enmhob.com^
+||tvapp.hpplay.cn^
 ||tvc.biphim.club^
 ||tvcoag.brw.pl^
 ||tver-metrics.streaks.jp^
@@ -97014,7 +97015,6 @@
 ||view.metlspan.com^
 ||view.nucorbuildingsystems.com^
 ||view.zijieapi.com^
-||view4cash.de^
 ||viewablemedia.net^
 ||viewagendaanna.com^
 ||viewclc.com^
@@ -97148,6 +97148,7 @@
 ||vip.panggugu.com^
 ||vipads.cc^
 ||vipads.live^
+||vipauth.hpplay.cn^
 ||vipdragonapp.monster^
 ||viper.kyrelldixon.com^
 ||viper.notifysrv.com^
