@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-24 08:43:06（北京时间）
+! Version: 2025-03-24 20:16:56（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 102722
+! Total count: 102705
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -9644,6 +9644,7 @@
 ||4dtrk.com^
 ||4du666d55u6.lookinews.com^
 ||4du666d55u6.lycheenews.com^
+||4e0c0b1247.com^
 ||4e1305540a.1c0c3fde9d.com^
 ||4e7042dd58.817dae10e1.com^
 ||4e8bjpldk.com^
@@ -10402,7 +10403,6 @@
 ||5b6dd5fdda.34d5566a50.com^
 ||5b7cb7236e.com^
 ||5bdd0a3c90.com^
-||5bdd71381c.com^
 ||5be7319a8b.com^
 ||5bf177fbac.938b97e5ba.com^
 ||5bf6d94b92.com^
@@ -11430,6 +11430,7 @@
 ||7395.reminews.com^
 ||7398.deeginews.com^
 ||7398.lookinews.com^
+||73a435bfaf.com^
 ||73a70e581b.com^
 ||73be0a6d8a.com^
 ||73ed366d3137ec936bd60b1184467776.com^
@@ -12454,6 +12455,7 @@
 ||8a45f0e0a6.579eede9ca.com^
 ||8a97caf2b2.b5f1d2bb4d.com^
 ||8a9d20ab14.0b9b5eada8.com^
+||8ab16250fe.com^
 ||8aea82753b.2ab91613ab.com^
 ||8ail6.icu^
 ||8b0a40fe88.915c63962f.com^
@@ -12877,6 +12879,7 @@
 ||9477.reminews.com^
 ||9478.gofenews.com^
 ||9478.selornews.com^
+||94782806.xyz^
 ||94789b3f8f.com^
 ||9479.gofenews.com^
 ||9479.jemonews.com^
@@ -18192,7 +18195,6 @@
 ||acerolawaists.com^
 ||acertb.com^
 ||acesse.tc.com.br^
-||acetinsjumbos.top^
 ||acewdf118.cn^
 ||aceyearling.com^
 ||acf9a96aa8.a35e803f21.com^
@@ -26567,6 +26569,7 @@
 ||badirectoryz.carte-gr.total.fr^
 ||badjocks.com^
 ||badjs.qq.com^
+||badjs.weixinbridge.com^
 ||badsecs.com^
 ||badslopes.com^
 ||badspads.com^
@@ -27955,7 +27958,6 @@
 ||bivos.xyz^
 ||biwipuque.com^
 ||biworldwide.actonservice.com^
-||bixoabsoams.com^
 ||biz.coface.com^
 ||biz.gexing.com^
 ||biz.weibo.com^
@@ -33481,7 +33483,6 @@
 ||coolemailnames.com^
 ||coolerclaimer.click^
 ||coolerconvent.com^
-||coolergeosid.shop^
 ||coolerpassagesshed.com^
 ||coolestblockade.com^
 ||coolestreactionstems.com^
@@ -39401,6 +39402,7 @@
 ||dtbfpygjdxuxfbs.xyz^
 ||dtch.brunel.nl^
 ||dtcqhfip.com^
+||dtdqpc.top^
 ||dtestpromo.fiat.it^
 ||dtheharityhild.info^
 ||dtheircleanwhitepi.org^
@@ -39549,7 +39551,6 @@
 ||dust-0001.delorazahnow.workers.dev^
 ||dust.xxx-video-indian.com^
 ||dustersee.com^
-||dustingvendace.shop^
 ||dustratebilate.com^
 ||dustspeerie.shop^
 ||dustyhammer.com^
@@ -43161,7 +43162,6 @@
 ||fatihabespurt.shop^
 ||fatsosjogs.com^
 ||faubaudunaich.net^
-||faucaipheeg.net^
 ||faucalsknub.shop^
 ||faucons.viessmann.fr^
 ||faughold.info^
@@ -44195,7 +44195,6 @@
 ||foamingjessant.shop^
 ||foaphodoufaiw.net^
 ||foapsovi.net^
-||foasoucib.com^
 ||foasowut.xyz^
 ||focalex.com^
 ||focas.jp^
@@ -45232,7 +45231,6 @@
 ||galagosalmon.top^
 ||galahsflamant.top^
 ||galas3xy.com^
-||galaxien.com^
 ||galaxydiminution.com^
 ||galaxypush.com^
 ||galeaeevovae.com^
@@ -47185,7 +47183,6 @@
 ||goole20.shop^
 ||goole24.shop^
 ||goomaphy.com^
-||goomeestain.net^
 ||goonichi.net^
 ||goonsphiltra.top^
 ||gooods4you.com^
@@ -47839,7 +47836,6 @@
 ||gulf.moneroocean.stream^
 ||gulfimply.com^
 ||gulfyteases.shop^
-||gulgulsinjer.top^
 ||gull.mayansmithgobat.com^
 ||gullible-lawyer.pro^
 ||gullibleanimated.com^
@@ -48573,7 +48569,6 @@
 ||helmregardiso.com^
 ||heloereister.top^
 ||heloisessa.com^
-||heloninremake.shop^
 ||help.fanza.cc^
 ||helpdesk.notifysrv.com^
 ||helpdesk.thinkhdi.com^
@@ -49093,7 +49088,6 @@
 ||hoabauwezow.com^
 ||hoachalaide.net^
 ||hoadaphagoar.net^
-||hoahitushu.net^
 ||hoalaicheey.com^
 ||hoanoola.net^
 ||hoaphoath.com^
@@ -49105,7 +49099,6 @@
 ||hoaxbasesalad.com^
 ||hoaxcookingdemocratic.com^
 ||hoaxviableadherence.com^
-||hoazathoaps.com^
 ||hobbiesshame.online^
 ||hobbleobey.com^
 ||hobitsaffined.com^
@@ -49339,7 +49332,6 @@
 ||hotvideos4726.34gwl8v1a.com^
 ||hotwords.com^
 ||hotxxxcontent.com^
-||houbaushashe.xyz^
 ||houbliu.top^
 ||houdodoo.net^
 ||hougriwhabool.net^
@@ -49420,6 +49412,7 @@
 ||hpn-collector.cliqz.com^
 ||hpninfo.hoopis.com^
 ||hpnkctxx.buzz^
+||hpplay.cdn.cibn.cc^
 ||hppvkbfcuq.com^
 ||hpqalsqjr.com^
 ||hpskiqiafxshdf.com^
@@ -53397,7 +53390,6 @@
 ||jeeryzest.com^
 ||jeescicely.com^
 ||jeestauglahity.net^
-||jeeteekoppa.top^
 ||jeetyetmedia.com^
 ||jeewhaphoa.net^
 ||jeffersonawards.actonservice.com^
@@ -53875,7 +53867,6 @@
 ||jpush.cn^
 ||jpush.html5.qq.com^
 ||jpush.io^
-||jpwbvlensjmp.xyz^
 ||jpwfkn.besthotels.es^
 ||jpwfrl.mona.de^
 ||jpwijors.xyz^
@@ -54366,6 +54357,7 @@
 ||kantiwl.com^
 ||kaorpyqtjjld.com^
 ||kaosts.com^
+||kape.dataplane.rudderstack.com^
 ||kapetracking.com^
 ||kapitalrus.ru^
 ||kaplanindex.com^
@@ -58386,6 +58378,7 @@
 ||lsv5.belambra.fr^
 ||lswfmx.stuartweitzman.com^
 ||lsxvnzif.icu^
+||lsyaicl.icu^
 ||lsyliel.top^
 ||lszydrtzsh.com^
 ||ltam2.secureforms.mcafee.com^
@@ -64180,7 +64173,6 @@
 ||moviesflix4k.xyz^
 ||moviesprofit.com^
 ||moviets.tc.qq.com^
-||mowablegyros.shop^
 ||mowcawdetour.com^
 ||mowcoordinateegypt.com^
 ||mowfruit.com^
@@ -67099,7 +67091,6 @@
 ||omegaadblock.net^
 ||omegadblocker.com^
 ||omegatrak.com^
-||omeletshaute.com^
 ||omelettebella.com^
 ||omenkid.top^
 ||omenrandomoverlive.com^
@@ -68219,7 +68210,6 @@
 ||outstandingspread.com^
 ||outstandingsubconsciousaudience.com^
 ||outstantewq.info^
-||outtasknapaea.click^
 ||outtimburrtor.com^
 ||outtunova.com^
 ||outwalkenvying.shop^
@@ -68284,7 +68274,6 @@
 ||oversightbullet.com^
 ||oversleepcommercerepeat.com^
 ||oversleepwilling.com^
-||oversnubbulltor.com^
 ||oversolosisor.com^
 ||overswaloton.com^
 ||overswirling.sbs^
@@ -69899,7 +69888,6 @@
 ||piteevoo.com^
 ||pithesglyphic.com^
 ||pitmirkwryness.shop^
-||pitoodsouk.net^
 ||pitshopsat.com^
 ||pittaking.openapp.link^
 ||pittardhectare.com^
@@ -70371,7 +70359,6 @@
 ||pleasingsafety.pro^
 ||plebzek.shop^
 ||plecnyz.icu^
-||plectrarestio.shop^
 ||pledgeexceptionalinsure.com^
 ||pledgeincludingsteer.com^
 ||pledgetolerate.com^
@@ -70697,7 +70684,6 @@
 ||pophandler.net^
 ||popin.cc^
 ||popland.info^
-||poplinheeltap.click^
 ||popmansion.com^
 ||popmarker.com^
 ||popmog.com^
@@ -70883,7 +70869,6 @@
 ||poundplanprecarious.com^
 ||poundswarden.com^
 ||pounti.com^
-||poupsosh.net^
 ||pourbaiser.com^
 ||pourorator.com^
 ||poutrevenueeyeball.com^
@@ -76566,7 +76551,6 @@
 ||samia.net.anwalt.de^
 ||samiana.com^
 ||samianepa.top^
-||samisenlet.click^
 ||samoabobbie.shop^
 ||samoryinaner.com^
 ||sampalsyneatly.com^
@@ -78847,7 +78831,6 @@
 ||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
-||sheephoux.com^
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
 ||sheeshumte.net^
@@ -78937,6 +78920,7 @@
 ||shoathofte.net^
 ||shoathuftussux.net^
 ||shocked-failure.com^
+||shocking-honey.com^
 ||shocking-profile.pro^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
@@ -97013,7 +96997,6 @@
 ||wadauthy.net^
 ||wads.ozap.com^
 ||wads.plurielles.fr^
-||waefufloaty.shop^
 ||waescyne.com^
 ||waeshana.com^
 ||wafe.camcaps.sx^
