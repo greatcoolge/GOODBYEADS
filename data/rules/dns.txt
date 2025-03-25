@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-03-25 08:41:43（北京时间）
+! Version: 2025-03-25 20:16:01（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 101687
+! Total count: 101698
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3144,6 +3144,7 @@
 ||1302.gofenews.com^
 ||1304.gofenews.com^
 ||1304.reminews.com^
+||1305314473.rsc.cdn77.org^
 ||1307.79j68qav2.com^
 ||1307.lookinews.com^
 ||130gelh8q.de^
@@ -3914,6 +3915,7 @@
 ||1981.gofenews.com^
 ||1983.reminews.com^
 ||1985.lookinews.com^
+||1985536323.rsc.cdn77.org^
 ||1986.gofenews.com^
 ||1987.lookinews.com^
 ||1987.reminews.com^
@@ -18755,7 +18757,6 @@
 ||ads.appbundledownload.com^
 ||ads.appsgeyser.com^
 ||ads.as4x.tmcs.ticketmaster.com^
-||ads.asiafriendfinder.com^
 ||ads.aspalliance.com^
 ||ads.audio.thisisdax.com^
 ||ads.baoangiang.com.vn^
@@ -19157,7 +19158,6 @@
 ||ads3-normal.zijieapi.com^
 ||ads3.gamecity.net^
 ||ads3.videy.co^
-||ads3.virtual-nights.com^
 ||ads4.gamecity.net^
 ||ads4.virtual-nights.com^
 ||ads4g.pl^
@@ -22187,7 +22187,6 @@
 ||ancznewozw.com^
 ||anddescendedcocoa.com^
 ||andersondiamonds.com^
-||andevoskolly.click^
 ||andiafanweed.top^
 ||andlache.com^
 ||andmlb.kshwtj.com^
@@ -24163,6 +24162,7 @@
 ||asafesite.com^
 ||asajojgerewebnew.com^
 ||asamgd.rossmann.de^
+||asanalytics.booking.com^
 ||asandcomemu.info^
 ||asap-systems.actonservice.com^
 ||asb.notifysrv.com^
@@ -27929,6 +27929,7 @@
 ||breedtagask.com^
 ||breezefraudulent.com^
 ||brelawunbung.click^
+||bremphumz.com^
 ||brephras.com^
 ||brerkols.com^
 ||brespark.eccocar.com^
@@ -30289,7 +30290,6 @@
 ||chiamfxz.com^
 ||chiantiriem.com^
 ||chibaigo.com^
-||chibchamudbank.click^
 ||chicgar.info^
 ||chicheecmaungee.net^
 ||chickadee.mikebifulco.com^
@@ -31147,7 +31147,6 @@
 ||clonesmesopic.com^
 ||closeattended.com^
 ||closedpersonify.com^
-||closedsoonest.click^
 ||closeupclear.top^
 ||clothegossip.com^
 ||clothepardon.com^
@@ -31983,6 +31982,7 @@
 ||confidethirstyfrightful.com^
 ||config.appjolt.com^
 ||config.chsmarttv.com^
+||config.emb-api.com^
 ||config.jpush.cn^
 ||config.unityads.unity3d.com^
 ||configurationluxuriantinclination.com^
@@ -32743,6 +32743,7 @@
 ||counteractpull.com^
 ||counterfeitbear.com^
 ||counterfeitnearby.com^
+||counters.booking.com^
 ||counters.freewebs.com^
 ||countertrck.com^
 ||countessrestrainasks.com^
@@ -35532,6 +35533,7 @@
 ||data.emails.ringcentral.com^
 ||data.emails.vidacaixa.es^
 ||data.emailservice.vattenfall.nl^
+||data.emb-api.com^
 ||data.embeddables.com^
 ||data.emdev.officedepot.com^
 ||data.emea.coca-cola.com^
@@ -43844,6 +43846,7 @@
 ||fse.net.anwalt.de^
 ||fsegfy.lepoint.fr^
 ||fsijngnfsfk.com^
+||fsjfnp.top^
 ||fsltwwmfxqh.fun^
 ||fsm.lapresse.ca^
 ||fsm2.spiegel.de^
@@ -47881,6 +47884,7 @@
 ||hilove.life^
 ||hilsaims.net^
 ||hiltanseen.net^
+||hilton.data.adobedc.net^
 ||himediads.com^
 ||himediadx.com^
 ||himekingrow.com^
@@ -48108,6 +48112,7 @@
 ||hnmikeloarp.com^
 ||hnnuaa.willhaben.at^
 ||hnpgjp.cyclemarket.jp^
+||hnpiwmegpdv.com^
 ||hnrgmc.com^
 ||hntnca.petpetgo.com^
 ||hnwttl.re-katsu.jp^
@@ -52419,6 +52424,7 @@
 ||jeghosso.net^
 ||jegnoocmoa.net^
 ||jegoypoabxtrp.com^
+||jegyojben.com^
 ||jehobsee.com^
 ||jehudf.com^
 ||jeinugsnkwe.xyz^
@@ -52501,6 +52507,7 @@
 ||jg1.trypicz.com^
 ||jg3.trypicz.com^
 ||jg7y.quizlet.com^
+||jgapcsi.icu^
 ||jgfuxnrloev.com^
 ||jggegj-rtbix.top^
 ||jggldfvx.com^
@@ -54918,7 +54925,6 @@
 ||legiblyosmols.top^
 ||legiswoollen.shop^
 ||legitfizzed.shop^
-||legitimatecurve.pro^
 ||legitimatelubricant.com^
 ||legitimatemess.pro^
 ||legitimatepowers.com^
@@ -63033,6 +63039,7 @@
 ||moodirresolute.com^
 ||moodjav12.fun^
 ||moodlerooms.blackboard.com^
+||moograwhire.net^
 ||moohoostoamie.net^
 ||mookie1.com^
 ||mooltanagra.top^
@@ -65379,6 +65386,7 @@
 ||nzueib.dice.com^
 ||nzurlmq.com^
 ||nzuwat.miliboo.it^
+||nzyqdqbfixkmq.buzz^
 ||nzzvvf.goldengoose.com^
 ||o-jmzsoafs.global^
 ||o-mvlwdxr.icu^
@@ -66677,7 +66685,6 @@
 ||openxmarket.asia^
 ||operaharvestrevision.com^
 ||operakeyboardhindsight.com^
-||operarymishear.store^
 ||operaserver.com^
 ||operationalcocktailtribute.com^
 ||operationalsuchimperfect.com^
@@ -67568,6 +67575,7 @@
 ||p7cloud.net^
 ||p7h1silo3f.app.cainthus.com^
 ||p8u.hinet.net^
+||p8wj9zko.com^
 ||p97387hj.xyz^
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
@@ -69454,7 +69462,6 @@
 ||plungecarbon.com^
 ||plungedcandourbleach.com^
 ||plungestumming.shop^
-||pluralmurraro.com^
 ||plus.tourispo.com^
 ||plusavecmoins.adp.ca^
 ||plusgo.win^
@@ -69959,6 +69966,7 @@
 ||ppxndfgf.icu^
 ||ppyflc.uniformnext.com^
 ||pq-mzfusgpzt.xyz^
+||pqav.cn^
 ||pqcixi.sparco-official.com^
 ||pqdhda.bluepops.co.kr^
 ||pqfpvb.icu^
@@ -77962,7 +77970,6 @@
 ||shoddy-review.com^
 ||shoeinggrimy.top^
 ||shoftoupsouxoam.net^
-||shoftoussees.com^
 ||shohipsoalr.top^
 ||shok.md/wp-content/banners^
 ||shokanouch.com^
@@ -81843,7 +81850,6 @@
 ||snippets.mozilla.com^
 ||snippystowstool.com^
 ||snitchtidying.com^
-||snitswaspshaft.com^
 ||snjfasp.com^
 ||snlpclc.com^
 ||snnmgdt.icu^
@@ -89533,6 +89539,7 @@
 ||tp2p.kg.qq.com^
 ||tp4sul.jwzd.com.cn^
 ||tpbid.com^
+||tpbkmusefo.com^
 ||tpc.googlesyndication.com^
 ||tpciqzm.com^
 ||tpcserve.com^
@@ -94840,6 +94847,7 @@
 ||vax-now.com^
 ||vaykjwn.top^
 ||vazshojt.com^
+||vazticlkivi.com^
 ||vazulp.graniph.com^
 ||vazypteke.pro^
 ||vbe.voyage-prive.be^
@@ -97167,6 +97175,7 @@
 ||wigetmedia.com^
 ||wiggledeteriorate.com^
 ||wigkxx.jetcost.com^
+||wigneebaimtoa.com^
 ||wigrooglie.net^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
@@ -99506,6 +99515,7 @@
 ||xlrm-tech.com^
 ||xls.go.sohu.com^
 ||xludzt.alfastrah.ru^
+||xluz.cn^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvirdr.com^
@@ -101338,6 +101348,7 @@
 ||zipinaccurateoffering.com^
 ||zipitnow.cfd^
 ||zippercontinual.com^
+||zipperszebecs.com^
 ||zippyfrog.co^
 ||zipradarindifferent.com^
 ||ziqniduy.com^
