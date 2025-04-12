@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-12 08:41:22（北京时间）
+! Version: 2025-04-12 20:13:43（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107468
+! Total count: 107454
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -3184,7 +3184,6 @@
 ||0998.reminews.com^
 ||0999.gofenews.com^
 ||0999.reminews.com^
-||09zyy.com^
 ||0a0d-d3l1vr.b-cdn.net^
 ||0a22eeac91.e46ece0a18.com^
 ||0a58b45e.b-cdn.net^
@@ -6055,7 +6054,6 @@
 ||1bw7etm93lf.www.woodbrass.com^
 ||1c0c3fde9d.com^
 ||1c466187fa.30e4a37eb7.com^
-||1c4912370a.com^
 ||1c76ff71d3.1ff0de0d52.com^
 ||1c7cf19baa.com^
 ||1ca6e3e357.a8ca394de0.com^
@@ -7947,7 +7945,6 @@
 ||2658.reminews.com^
 ||2659.gofenews.com^
 ||2659.reminews.com^
-||265ccb08af.com^
 ||266.lycheenews.com^
 ||2660.gofenews.com^
 ||2660.lookinews.com^
@@ -12709,7 +12706,6 @@
 ||40caidaylimpia.catzolab.net^
 ||40ceexln7929.com^
 ||40cg.com^
-||40hardcore.galleryprogram.com^
 ||4100.gofenews.com^
 ||4100.reminews.com^
 ||4101.gofenews.com^
@@ -19017,6 +19013,7 @@
 ||9bff4acb16.051e57adf3.com^
 ||9br.lycheenews.com^
 ||9c5203d24f.bca10c62ca.com^
+||9c867e2056.com^
 ||9cbj41a5.de^
 ||9cd4abb9e0.com^
 ||9cd76b4462bb.com^
@@ -23718,7 +23715,6 @@
 ||abqjst.com^
 ||abracon.actonservice.com^
 ||abrahamschildren.com^
-||abrasivefirsthandsadly.com^
 ||abridgealgedo.com^
 ||abridgesynchronizepleat.com^
 ||abroad-ad.kingsoft-office-service.com^
@@ -23911,7 +23907,6 @@
 ||accomplicemiracle.com^
 ||accomplishedpersuadedprinter.com^
 ||accomplishmentailmentinsane.com^
-||accordancecaskmilk.com^
 ||accordinglyair.com^
 ||account.beauty^
 ||account.paypal-inc.tribesiren.com^
@@ -26035,7 +26030,6 @@
 ||adserver.rtvutrechtreclame.nl^
 ||adserver.sanomawsoy.fi^
 ||adserver.sciflicks.com^
-||adserver.sharewareonline.com^
 ||adserver.sniffies.com^
 ||adserver.sonicplug.com^
 ||adserver.startnow.com^
@@ -26422,7 +26416,6 @@
 ||advantagesblareseizure.com^
 ||advantagespire.com^
 ||advard.com^
-||advariant.com^
 ||advast.sibnet.ru^
 ||adventory.com^
 ||adventurerarmory.com^
@@ -27631,7 +27624,6 @@
 ||alog.umeng.com^
 ||alogus.umeng.com^
 ||alonedisallowrearview.com^
-||alonefabulous.com^
 ||alonehepatitisenough.com^
 ||alonged.com^
 ||alongsidelizard.com^
@@ -27693,7 +27685,6 @@
 ||alterassumeaggravate.com^
 ||alterhimdecorate.com^
 ||alternads.info^
-||alternatelicking.com^
 ||alternatespikeloudly.com^
 ||alternativecpmgate.com^
 ||alternativefoul.com^
@@ -27777,7 +27768,6 @@
 ||amazinglyclimb.com^
 ||amazinglyperception.com^
 ||amazingomgnews.ru/live.js^
-||amazingtoilalthough.com^
 ||amazon-adsystem.com^
 ||amazon-cornerstone.com^
 ||amazon-email.branch.rocks^
@@ -28004,7 +27994,6 @@
 ||anal-pictures.biz^
 ||anal.doubledouble.top^
 ||anal.sataniskwijt.be^
-||analaxadulatory.com^
 ||analcreampie.net^
 ||analdude.com^
 ||analitica.webrpp.com^
@@ -30404,7 +30393,6 @@
 ||applicationplasticoverlap.com^
 ||applicationsattaindevastated.com^
 ||applicationsstereocanoe.com^
-||appliedmeaningfulable.com^
 ||applifier.com^
 ||applink-test.chalknation.com^
 ||applink.aspiration.com^
@@ -30495,7 +30483,6 @@
 ||appointments.swedish.org^
 ||appollo-plus.com^
 ||appraisalaffable.com^
-||apprebuffnat.com^
 ||appreciatelilacmakeover.com^
 ||appreciatesaucepan.com^
 ||appreciatewedgelearn.com^
@@ -32235,7 +32222,6 @@
 ||b8pfulzbyj7h.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
 ||b90.yahoo.co.jp^
-||b9009ada63.com^
 ||b91.yahoo.co.jp^
 ||b92.yahoo.co.jp^
 ||b932.wesh.com^
@@ -33615,7 +33601,6 @@
 ||bio.chups.co^
 ||bioagiliytix.actonservice.com^
 ||bioanalyticalmarketing.eurofins-info.com^
-||bioatpej.xyz^
 ||bioces.com^
 ||biographyaudition.com^
 ||biolw.cloud^
@@ -34274,7 +34259,6 @@
 ||bottleschance.com^
 ||bottlescharitygrowth.com^
 ||bottleselement.com^
-||bottlesgarage.com^
 ||bottlestonightapp.com^
 ||bottlestrivingtarget.com^
 ||bottomthoughtvow.com^
@@ -35562,7 +35546,6 @@
 ||caicme.xyz^
 ||caicuptu.xyz^
 ||caigoowheephoa.xyz^
-||caihswlb.xyz^
 ||caimovaur.net^
 ||caistireew.net^
 ||caitoasece.com^
@@ -44790,6 +44773,7 @@
 ||dq06u9lt5akr2.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||dq95d35.com^
+||dqbmatfh.com^
 ||dqd5t8xfxmhi7.cloudfront.net^
 ||dqeaa.com^
 ||dqefxd.kaigoworker.jp^
@@ -46051,7 +46035,6 @@
 ||educationlink.clear360.com^
 ||educationrailway.website^
 ||educedsteeped.com^
-||educingbirle.shop^
 ||educontinua.javeriana.edu.co^
 ||edutechlearners.com^
 ||eduweb.woeful-trash.pro^
@@ -47768,6 +47751,7 @@
 ||evanescentedge.com^
 ||evaporatepublicity.com^
 ||evasiondemandedlearning.com^
+||evcnmtw.top^
 ||evejartaal.com^
 ||evelynn.landing.ni.com^
 ||evemasoil.com^
@@ -50980,6 +50964,7 @@
 ||gdasaasnt.com^
 ||gdbtlmsihonev.xyz^
 ||gdd08.com^
+||gddshvkrawod.com^
 ||gdecording.info^
 ||gdecordingholo.info^
 ||gdeigri.com^
@@ -52966,7 +52951,6 @@
 ||greeterstaniel.com^
 ||greetham.net^
 ||greetpanda.org^
-||greetzebra.com^
 ||greewepi.net^
 ||greewoabaikr.com^
 ||greezoob.net^
@@ -53367,6 +53351,7 @@
 ||gvt2.com^
 ||gvvedashb6.fun^
 ||gvxnff.soulara.com.au^
+||gvypnjoucrsfep.com^
 ||gw-analytics.panasonic.com^
 ||gw-dv.vip^
 ||gw.conversionsapigateway.com^
@@ -55726,6 +55711,7 @@
 ||ilcq.cn^
 ||ilddiwltjm.com^
 ||ildrenastheycam.org^
+||ildrendreaminger.org^
 ||ilead.itrack.it^
 ||ileeckut.com^
 ||ilepwo.bonprix.at^
@@ -60081,7 +60067,6 @@
 ||kkfdajrsqehl.com^
 ||kkhq.actonservice.com^
 ||kkieeoxcjpqah.vip^
-||kklfbucxmylnbdv.xyz^
 ||kkmacsqsbf.info^
 ||kkpgv2.xunlei.com^
 ||kkqcnrk.com^
@@ -63978,6 +63963,7 @@
 ||lzoasvofvzw.com^
 ||lzoefmqlgwv.com^
 ||lzolanahk.com^
+||lzoorgpta.com^
 ||lzp.plus^
 ||lzrhay.farmaciasoccavo.it^
 ||lzrljv.tradera.com^
@@ -69027,6 +69013,7 @@
 ||mntft.com^
 ||mntzr11.net^
 ||mntzrlt.net^
+||mnverylittlec.org^
 ||mnwljk.ibagy.com.br^
 ||mnwor.xuanlishi.com^
 ||mo-tuo.com^
@@ -70982,7 +70969,6 @@
 ||no9pldds1lmn3.soundcloud.com^
 ||noa.yahoo.com^
 ||noa0.compteczam.fr^
-||noafechu.xyz^
 ||noafoaji.xyz^
 ||noapeveety.top^
 ||noapsovochu.net^
@@ -73998,6 +73984,7 @@
 ||pangake.club^
 ||pangdeserved.com^
 ||pangiingsinspi.com^
+||pangiumsulu.shop^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
@@ -74707,7 +74694,6 @@
 ||phanquang.vn^
 ||phapsarsox.xyz^
 ||pharmcash.com^
-||pharteewhi.xyz^
 ||phastoag.com^
 ||phaulregoophou.net^
 ||phaunaitsi.net^
@@ -78043,7 +78029,6 @@
 ||qwkryrwrwo.com^
 ||qwoofao.top^
 ||qwoyfys.com^
-||qwpenncp.com^
 ||qwpsgqyzrzcr.life^
 ||qwrwhosailedbe.info^
 ||qwsanan.top^
@@ -79755,6 +79740,7 @@
 ||rkwxfi.xyz^
 ||rkxmow.novasol-vacaciones.es^
 ||rl.finalprice.com^
+||rl1u0wknm1onstp8395too.xyz^
 ||rlcdn.com^
 ||rle.ru^
 ||rlittleboywhowas.com^
@@ -82195,7 +82181,6 @@
 ||scout.bergfreunde.nl^
 ||scout.bergfreunde.no^
 ||scout.bergfreunde.se^
-||scowderunthorn.com^
 ||scowpoppanasals.com^
 ||scp.deltadentalwa.com^
 ||scpsmnybb.xyz^
@@ -91927,7 +91912,6 @@
 ||sunflowerinformed.com^
 ||sunglassesexpensive.com^
 ||sunkwarriors.com^
-||sunlampassumes.com^
 ||sunlightmetrics.b-cdn.net^
 ||sunmediaads.com^
 ||sunnshele.com^
@@ -94262,7 +94246,6 @@
 ||theadultcompany.biz^
 ||theapple.site^
 ||theathematica.info^
-||thebainpushtu.com^
 ||thebasiccompanies.actonservice.com^
 ||thebdx.actonservice.com^
 ||thebestgame2020.com^
@@ -101576,6 +101559,7 @@
 ||vitrinler3.com^
 ||viu.actonservice.com^
 ||viu.viubyhub.com^
+||viurl.fun^
 ||viva.api.xiaoying.co^
 ||vivaxhouvari.shop^
 ||vividcortex.actonservice.com^
@@ -102959,6 +102943,7 @@
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||wevbgr.vidaxl.it^
+||wevrwqjqemkyj.top^
 ||wew.dushiwenxue.net^
 ||wewearegogogo.com^
 ||wewlorozwojrm.top^
@@ -107409,6 +107394,7 @@
 ||zvvlbf.xyz^
 ||zvvpcz.puravita.ch^
 ||zvvqprcjjnh.com^
+||zvvsjz.top^
 ||zvvsvr.kettner-edelmetalle.de^
 ||zvwhrc.com^
 ||zwaar.net^
