@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-13 20:14:31（北京时间）
+! Version: 2025-04-14 08:44:57（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107528
+! Total count: 107527
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -20932,7 +20932,6 @@
 ||a2sex.com^
 ||a2tw6yoodsag.com^
 ||a2wx.icu^
-||a2zgroup.in^
 ||a3.hotpornfile.org^
 ||a3.jandan.net^
 ||a3.lookinews.com^
@@ -24326,7 +24325,6 @@
 ||ad.e-dpe.jp^
 ||ad.edugram.com^
 ||ad.eloan.co.jp^
-||ad.erkiss.club^
 ||ad.ettoday.net^
 ||ad.eva.vn^
 ||ad.f1cd.ru^
@@ -31976,7 +31974,6 @@
 ||ayrather.com^
 ||aywivflptwd.com^
 ||aywnaoliigc.com^
-||ayyjenjbknjmv.top^
 ||ayzylwqazaemj.top^
 ||az-neverblock.aznude.workers.dev^
 ||az.nzn.io^
@@ -45404,6 +45401,7 @@
 ||e017807b72.5437c7c977.com^
 ||e02f936aee.8f1de9240f.com^
 ||e035.pandasuite.io^
+||e045f561.b-cdn.net^
 ||e04f630ca8.com^
 ||e0593385f7.f59408d48d.com^
 ||e076.xyz^
@@ -47431,6 +47429,7 @@
 ||eresultedinncre.info^
 ||erg.ihclam.cn^
 ||ergadx.com^
+||ergiekszra.com^
 ||ergjohl.com^
 ||ergonomicparadeupstroke.com^
 ||ergrbp.hobidunya.com^
@@ -49443,7 +49442,6 @@
 ||fishermanplacingthrough.com^
 ||fishermanslush.com^
 ||fisheyeskimmed.click^
-||fishgigyeaoman.top^
 ||fishing.daigostudio.com^
 ||fishmenkabbala.com^
 ||fistevasionjoint.com^
@@ -50180,7 +50178,6 @@
 ||freebanner.com^
 ||freebiesurveys.com^
 ||freecontent.date^
-||freecontent.live^
 ||freecontent.stream^
 ||freeconverter.io^
 ||freecounter.ovh^
@@ -51353,7 +51350,6 @@
 ||getdownloadfree.cfd^
 ||getgx.net^
 ||getinfo.fullsail.edu^
-||getintopc.today^
 ||getjad.io^
 ||getjan.io^
 ||getkmspico.com^
@@ -53161,6 +53157,7 @@
 ||gsftuy.nutripure.fr^
 ||gsg9.carrefour-banque.fr^
 ||gsibxuwrysrws.xyz^
+||gsitrix.com^
 ||gsjln04hd.com^
 ||gslb.hpplay.cn^
 ||gslive.edm.globalsources.com^
@@ -55602,7 +55599,6 @@
 ||igabcgnh.icu^
 ||igainareputaon.info^
 ||igaming-warp-service.io^
-||igbcukkbqnjxl.xyz^
 ||igbfwa.com^
 ||igc0.destinia.at^
 ||igexlg.weltbild.de^
@@ -63671,6 +63667,7 @@
 ||lritaly.wolterskluwer.com^
 ||lrjnbf.sabon.co.jp^
 ||lrkfuheobm.one^
+||lrkt-in.com^
 ||lrnetherlands.wolterskluwer.com^
 ||lrp7.carrefour-banque.fr^
 ||lrpoland.wolterskluwer.com^
@@ -63773,7 +63770,6 @@
 ||lujaqg.e-blooming.com^
 ||lujcig.modaforyou.pl^
 ||lukeexposure.com^
-||lukizeiasn.xyz^
 ||lukomol.com^
 ||lukyday.xyz^
 ||luloffer.com^
@@ -75766,7 +75762,6 @@
 ||polarbear.conermurphy.com^
 ||polarcdn-terrax.com^
 ||polaris.zijieapi.com^
-||polarisleptera.com^
 ||polarmobile.com^
 ||polaronveldt.guru^
 ||polhvf.bootbarn.com^
@@ -76545,6 +76540,7 @@
 ||proforums.com^
 ||profoundbagpipeexaggerate.com^
 ||profoundflourishing.com^
+||proftrafficcounter.com^
 ||profusesupport.com^
 ||progaming.monster^
 ||progenyoverhear.com^
@@ -78144,7 +78140,6 @@
 ||qzwktr.world-fusigi.net^
 ||qzxfnv.beams.co.jp^
 ||qzybrmzevbro.top^
-||qzynbzjnblbny.top^
 ||qzzzzzzzzzqq.com^
 ||r-ad.linkshare.jp^
 ||r-dev.urbansitter.net^
@@ -84139,7 +84134,6 @@
 ||sig.nadex.com^
 ||sigheemibod.xyz^
 ||sightdisintegrate.com^
-||sighterbuffalo.com^
 ||sightshumble.com^
 ||sigilstimes.guru^
 ||sigmob.com^
@@ -94309,7 +94303,6 @@
 ||thebasiccompanies.actonservice.com^
 ||thebdx.actonservice.com^
 ||thebestgame2020.com^
-||thebestoffersintheweb.com^
 ||thebestshemalevideos.com/images/visuals^
 ||thebtrads.top^
 ||thebugs.ws^
@@ -94506,6 +94499,7 @@
 ||thrilledroundaboutreconstruct.com^
 ||thrillignoringexalt.com^
 ||thrillstwinges.top^
+||thriseds.com^
 ||thrive.metagenics.com^
 ||throatchanged.com^
 ||thronestartle.com^
@@ -95503,6 +95497,7 @@
 ||tqeferty33.fun^
 ||tqhosting.actonservice.com^
 ||tqiwqa.jdsports.ie^
+||tqjojh.icu^
 ||tqkspo.neobyte.es^
 ||tqlkg.com^
 ||tqlqfhmvainmn.one^
@@ -99186,6 +99181,7 @@
 ||txv0.destinia.hu^
 ||txv2-br-cdn.kwai.net.iberostar.com^
 ||txvoin.with2.net^
+||txvq.cn^
 ||txykmuqzxjitf.space^
 ||txyqik.jjshouse.fr^
 ||txzaazmdhtw.com^
@@ -99376,6 +99372,7 @@
 ||ubpekn.sivillage.com^
 ||ubqjbd.daviddonahue.com^
 ||ubrihx.allbirds.jp^
+||ubt-sgp.travix.com^
 ||ubuntu.aomg5bzv7.com^
 ||ubuyanalytics.ubuy.com^
 ||ubvsjh.pointtown.com^
@@ -99517,7 +99514,6 @@
 ||ugrarvy.com^
 ||ugroocuw.net^
 ||ugtbit.icu^
-||ugyyod.com^
 ||ugzbsu.klimaworld.com^
 ||uh.nakanohito.jp^
 ||uhabo.com^
@@ -99674,6 +99670,7 @@
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
 ||umami.aigenerations.net^
+||umami.heroku.uk^
 ||umami.subdavis.com^
 ||umami.wakarimasen.moe^
 ||umazvs.raybiotech.com^
@@ -100720,6 +100717,7 @@
 ||uv4.fun^
 ||uvac.devcre.site^
 ||uvccpk.1800petmeds.com^
+||uvcnmtt.top^
 ||uvekyvs.icu^
 ||uvgxhu.ezgif.com^
 ||uvgxhu.sharemods.com^
@@ -101746,7 +101744,6 @@
 ||voicepainlessdonut.com^
 ||voicepeaches.com^
 ||voicepythons.shop^
-||voicevegetable.com^
 ||voiply.actonservice.com^
 ||vois.vodafone.com^
 ||vokaunget.xyz^
@@ -102791,6 +102788,7 @@
 ||webpush.vn^
 ||webpushcloud.info^
 ||webpushdirect.biz^
+||webpushstat.api.engagelab.cc^
 ||webreseau.com^
 ||webs.hammacher.com^
 ||webscouldlearnof.info^
@@ -107404,6 +107402,7 @@
 ||zt2088.com^
 ||ztarkm.johnnie-o.com^
 ||ztbbpz.betten.de^
+||ztdbfz.top^
 ||ztdog.com^
 ||ztevents.zaloapp.com^
 ||ztfjtn.liujo.com^
