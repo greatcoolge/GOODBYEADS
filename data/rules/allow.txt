@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-16 20:16:33（北京时间）
+! Version: 2025-04-17 08:42:24（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 14723
+! Total count: 14721
 @@#.banner%20ad.$image,domain=dokuo666.blog98.fc2.com
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
@@ -140,7 +140,6 @@
 @@/adblockDetector.$domain=softwarebrother.com
 @@/adblock_$domain=xingk.cc
 @@/adfile/*$domain=cidianwang.com
-@@/adguard.$domain=llq.dml.ink
 @@/adimage/*$domain=scyts.com|wacom.tw
 @@/adimages/*$domain=p9.com.tw
 @@/adimg/*$domain=laniqu.com
@@ -3791,7 +3790,6 @@
 @@||crictracker.com^$generichide
 @@||crimemapping.com/cdn/*/analytics/eventtracking.js$~third-party
 @@||criteo.com/delivery/$domain=canadiantire.ca
-@@||criteo.com/delivery/ajs.php?zoneid=$script,domain=gaus.ee
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||criticecho.com^$generichide
 @@||crowdcompute-pa.clients*.google.com^$stealth
@@ -7672,7 +7670,6 @@
 @@||jbprogramnotes.com^$generichide
 @@||jccsmart.com^$stealth
 @@||jcrew.com^$stealth=useragent
-@@||jd.com/adclick?$popup,~third-party
 @@||jd.com/adclick?$~third-party
 @@||jd.com/setCookie?
 @@||jd.com^*&refer=http$script
@@ -14441,6 +14438,7 @@
 @@||xboxlive.com^$stealth
 @@||xboxservices.com^$stealth
 @@||xcafe.com/*/advertisement.jsf
+@@||xcancel.com^$extension="AdGuard Popup Blocker"
 @@||xcweather.co.uk/*/geo.php?
 @@||xda-developers-android.blogspot.com^$generichide
 @@||xda-developers-forum.blogspot.com^$generichide
