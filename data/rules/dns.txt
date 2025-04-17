@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-17 08:42:24（北京时间）
+! Version: 2025-04-17 20:16:10（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 107855
+! Total count: 107864
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -12379,7 +12379,6 @@
 ||3krujww3z31l4def.bloblohub.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
 ||3lift.com^
-||3lm.info^
 ||3lo.icu^
 ||3lr67y45.com^
 ||3lucosy.com^
@@ -24546,6 +24545,7 @@
 ||ad2.linxcz.cz^
 ||ad2.lupa.cz^
 ||ad2.udn.com^
+||ad2f8c6f8e.com^
 ||ad2games.com^
 ||ad2the.net^
 ||ad3.cross-a.net^
@@ -30630,6 +30630,7 @@
 ||aqmzbk.avectoi.kr^
 ||aqnazbbjlezqa.top^
 ||aqncinxrexa.com^
+||aqndcybah.com^
 ||aqnnysd.com^
 ||aqorez.yamo.bio^
 ||aqouep.aquaphor.ru^
@@ -36999,6 +37000,7 @@
 ||chiefexecutive.actonservice.com^
 ||chiefinvestmentofficer.strategic-i.com^
 ||chieflyquantity.com^
+||chienzul.com^
 ||chiglees.com^
 ||chihiro.nostalgie.fr^
 ||chihuahuadoorstoppond.com^
@@ -39217,6 +39219,7 @@
 ||copperjav182.fun^
 ||copycarpenter.com^
 ||copycatnews.com^
+||copycatsoirees.top^
 ||copyrightaccesscontrols.com^
 ||copyrightmonastery.com^
 ||cor8ni3shwerex.com^
@@ -43626,6 +43629,7 @@
 ||digadser.com^
 ||digestivepresenceclimb.com^
 ||diggingrebbes.com^
+||dighavrap.com^
 ||digi-ping.com^
 ||digi.vinut.com.vn^
 ||digiads.tv^
@@ -44682,7 +44686,6 @@
 ||doubleclick.de^
 ||doubleclick.host^
 ||doubleclick.ne.jp^
-||doubleclick.net^
 ||doublemax.net^
 ||doublepimp.com^
 ||doublepimpssl.com^
@@ -46321,6 +46324,7 @@
 ||ehedwd.sikayetvar.com^
 ||ehgavvcqj.xyz^
 ||ehhjfgs.xyz^
+||ehkualecb.com^
 ||ehlrxixabvzbo.tech^
 ||ehmhqcn.cn^
 ||ehmqlr.com^
@@ -48131,6 +48135,7 @@
 ||ewalxb.epicsports.com^
 ||ewaterw.top^
 ||ewblapjfknviwm.com^
+||ewdk.cn^
 ||ewdxisdrc.com^
 ||eweconciliate.com^
 ||eweisiw.top^
@@ -49107,6 +49112,7 @@
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||fffbd1538e.com^
 ||ffjevt.icu^
+||fflbpi.top^
 ||ffofcetgurwrd.com^
 ||ffr.actonservice.com^
 ||ffrmel.gerryweber.com^
@@ -49450,7 +49456,6 @@
 ||find-it.pro^
 ||find.api.micloud.xiaomi.net.iberostar.com^
 ||findbetterresults.com^
-||findcommerce.com^
 ||finder2024.com^
 ||findgreatnews.com^
 ||findingattending.com^
@@ -53897,6 +53902,7 @@
 ||hbbtv01p.anixe.net^
 ||hbbtvapp.sonnenklar.tv^
 ||hbbynt.xyz^
+||hbeafcac.top^
 ||hbfpvm.comolib.com^
 ||hbhood.com^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
@@ -54441,7 +54447,6 @@
 ||hiphaltlauroyl.shop^
 ||hipizza.openapp.link^
 ||hipkqt.contorion.de^
-||hipnoticrec.biz^
 ||hippobulse.com^
 ||hiprofitnetworks.com^
 ||hiptoxide.pro^
@@ -55642,7 +55647,6 @@
 ||idregie.com^
 ||idrivelogistics.actonservice.com^
 ||ids.actonservice.com^
-||idsse.com^
 ||idstatus.sky.com^
 ||idswinpole.casa^
 ||idthecharityc.info^
@@ -58516,6 +58520,7 @@
 ||iwantuonly.com^
 ||iwantusingle.com^
 ||iwatero.top^
+||iwcnmto.top^
 ||iwe.ktvgv.com^
 ||iweisio.top^
 ||iweizao.top^
@@ -62793,6 +62798,7 @@
 ||lkkemywlsyxsq.xyz^
 ||lkluoz.saraceniwines.com^
 ||lkmedcjyh.xyz^
+||lkmgjfkhfh.top^
 ||lknqfn.furla.com^
 ||lkpmprksau.com^
 ||lkqaq.icu^
@@ -64058,6 +64064,7 @@
 ||lwurserl.top^
 ||lwusnt.yogibo.kr^
 ||lwvrv.icu^
+||lwxegrybymzah.love^
 ||lwxuo.com^
 ||lx2rv.com^
 ||lx5.homeporntuber.com^
@@ -66869,6 +66876,7 @@
 ||mediumtunapatter.com^
 ||medlemskap.nof.no^
 ||medleyads.com^
+||medlikeamate.org^
 ||medncom.com^
 ||medoofty.com^
 ||medrickmafiosi.com^
@@ -69779,7 +69787,6 @@
 ||msg.sqz.app^
 ||msg.video.qiyi.com^
 ||msga.cupid.iqiyi.com^
-||msgby.ru^
 ||msgose.com^
 ||mshago.com^
 ||mshs.actonservice.com^
@@ -72487,7 +72494,6 @@
 ||om.zdnet.com.au^
 ||omadi.actonservice.com^
 ||omahasteaks.com.102.122.207.net^
-||omappapi.com^
 ||omarcheopson.com^
 ||omareeper.com^
 ||omasatra.com^
@@ -73841,6 +73847,7 @@
 ||ozkkuy.fabianafilippi.com^
 ||ozkpkocib.com^
 ||ozlenbl.com^
+||ozmbzowg.com^
 ||ozmspawupo.com^
 ||oznlro.sanity.com.au^
 ||ozobsaib.com^
@@ -84208,7 +84215,6 @@
 ||shocking-profile.pro^
 ||shockingstrategynovelty.com^
 ||shockynews.com^
-||shoddy-review.com^
 ||shoeinggrimy.top^
 ||shoftoupsouxoam.net^
 ||shohipsoalr.top^
@@ -91711,6 +91717,7 @@
 ||stikroltiltoowi.net^
 ||stilaikr.com^
 ||stildell.com^
+||stildreans.com^
 ||stillfolder.com^
 ||stimaariraco.info^
 ||stimiyb.top^
@@ -92225,6 +92232,7 @@
 ||sunflowercoastlineprobe.com^
 ||sunflowerinformed.com^
 ||sunglassesexpensive.com^
+||sungtoaz.club^
 ||sunkwarriors.com^
 ||sunlightmetrics.b-cdn.net^
 ||sunmediaads.com^
@@ -100979,6 +100987,7 @@
 ||uuaisp.com^
 ||uuajq.top^
 ||uucatiqnd.com^
+||uucnmtt.top^
 ||uudbvq.skuola.net^
 ||uue2.destinia.ir^
 ||uuhejd.snipes.es^
@@ -101271,7 +101280,6 @@
 ||vatanclick.ir^
 ||vatcertaininject.com^
 ||vaticmons.digital^
-||vaticpeacing.com^
 ||vatrack.hinet.net^
 ||vatzxd.xyz^
 ||vaufekonaub.net^
@@ -101300,6 +101308,7 @@
 ||vbllxaaj.icu^
 ||vbmjlevwwvyzj.top^
 ||vboiutv.xyz^
+||vbptgoyketwhv.global^
 ||vbrusdiifpfd.com^
 ||vbseje.stonehengehealth.com^
 ||vbsjdd.olx.pt^
@@ -102035,6 +102044,7 @@
 ||voicepainlessdonut.com^
 ||voicepeaches.com^
 ||voicepythons.shop^
+||voidthemhen.org^
 ||voiply.actonservice.com^
 ||vois.vodafone.com^
 ||vokaunget.xyz^
@@ -103956,7 +103966,6 @@
 ||work.gd^
 ||workable1x.xyz^
 ||workback.net^
-||workcahoots.com^
 ||workedqtam.com^
 ||workedworlds.com^
 ||worker-app-dev.buildforce.com^
@@ -105385,6 +105394,7 @@
 ||wyvlljvbbjvvm.top^
 ||wyvlllooalobz.top^
 ||wyvpkmbj.icu^
+||wywkwqzkavlvw.top^
 ||wywvyf.discuss.com.hk^
 ||wywvyf.price.com.hk^
 ||wywvyf.uwants.com^
@@ -107672,7 +107682,6 @@
 ||zozwyc.moscot.com^
 ||zpashl.amgakuin.co.jp^
 ||zpbpenn.com^
-||zpcode11.com^
 ||zpgetworker11.com^
 ||zpilkesyasa.com^
 ||zpipacuz-lfa.vip^
