@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-24 08:42:49（北京时间）
+! Version: 2025-04-24 20:16:49（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105658
+! Total count: 105691
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -15205,6 +15205,7 @@
 ||9179.jemonews.com^
 ||9179ef7ec3.6778056ac3.com^
 ||917c626609.com^
+||918000.xyz^
 ||9181.luronews.com^
 ||9187.jemonews.com^
 ||9188.4puuqeh41.com^
@@ -20963,7 +20964,6 @@
 ||ad-balancer.net^
 ||ad-bay.com^
 ||ad-brix.com^
-||ad-cdn.qingting.fm^
 ||ad-center.com^
 ||ad-channel.wikawika.xyz^
 ||ad-cheers.com^
@@ -21046,6 +21046,7 @@
 ||ad.animehub.ac^
 ||ad.animeitaly.tv^
 ||ad.anuntis.com^
+||ad.api.3g.youku.com^
 ||ad.api.yyapi.net^
 ||ad.apl164.me^
 ||ad.apl298.me^
@@ -23769,6 +23770,7 @@
 ||aglurj.com^
 ||agma-analytics.de^
 ||agmtrk.com^
+||agn.aty.sohu.com^
 ||agnes.waz.de^
 ||agnqolfmjebpk.icu^
 ||agoholiday.com^
@@ -31691,6 +31693,7 @@
 ||bromoneg.shop^
 ||bronca.site^
 ||bronxvanilla.openapp.link^
+||bronze-leather.com^
 ||bronzecedarleaf.com^
 ||bronzeinside.com^
 ||bronzerkevil.com^
@@ -32848,6 +32851,7 @@
 ||carte.fleet-page.total.fr^
 ||cartining-specute.com^
 ||cartoon.hardalist.com^
+||cartrigepromised.com^
 ||cartrigestale.com^
 ||cartx.cloud^
 ||carungo.com^
@@ -33002,6 +33006,7 @@
 ||cb.baidu.com^
 ||cb.l.qq.com^
 ||cb07f20af1.8de5d7e235.com^
+||cb260f4651.com^
 ||cb3251add6.com^
 ||cb44e02059.7cffee2baf.com^
 ||cb530ae596.66a5e92d66.com^
@@ -33503,6 +33508,7 @@
 ||ce82020873.com^
 ||ce881bed8d.6cdbf5ab84.com^
 ||ceaankluwuov.today^
+||ceandtheremade.com^
 ||ceasechampagneparade.com^
 ||ceasecompromisetwine.com^
 ||ceasedheave.com^
@@ -44509,6 +44515,7 @@
 ||ercoils.com^
 ||erdeallyighab.com^
 ||erdecisesgeorg.info^
+||ereandhthrew.org^
 ||erearmored.top^
 ||erebor.douban.com^
 ||eredrubygsworlo.com^
@@ -44812,6 +44819,7 @@
 ||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
 ||europeanivanprestigious.com^
 ||euros4click.de^
+||eurosexcuses.com^
 ||eurotax-at.autovistagroup.com^
 ||eurotax-be.autovistagroup.com^
 ||eurotax-ch.autovistagroup.com^
@@ -52694,6 +52702,7 @@
 ||ictrjw.barcastores.com^
 ||icubeswire.co^
 ||icudqq.xyz^
+||icvidofjsx.com^
 ||icy-veins.com/prolix^
 ||icyads.com^
 ||icyporno.com^
@@ -54785,6 +54794,7 @@
 ||ingredients.firmenich.com^
 ||ingredientwritten.com^
 ||ingress.linktr.ee^
+||ingress.trendii.com^
 ||ingsinspiringt.info^
 ||inhabitkosha.com^
 ||inhabitsensationdeadline.com^
@@ -56977,6 +56987,7 @@
 ||kagnejule.xyz^
 ||kagonst.com^
 ||kagrooxa.net^
+||kai5741.xyz^
 ||kaifiluk.com^
 ||kaigaidoujin.com^
 ||kaijooth.net^
@@ -57285,6 +57296,7 @@
 ||khrtac.xiangha.com^
 ||khuzibatekes.com^
 ||kiakidanzig.shop^
+||kiapxorbpuesfv.com^
 ||kiaughsviner.com^
 ||kibmswncw.com^
 ||kibyglsp.top^
@@ -57407,6 +57419,7 @@
 ||kjmaoi.babor.com^
 ||kjmxyxgsi.com^
 ||kjnsgqe.icu^
+||kjqsnxibegvue.com^
 ||kjsrpkibdjtyy.online^
 ||kjsvvnzcto.com^
 ||kjxhd.cn^
@@ -66487,6 +66500,7 @@
 ||mobads-pre-config.cdn.bcebos.com^
 ||mobads.baidu.com^
 ||mobagent.com^
+||mobaliyun.res.mgtv.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mobfox.com^
 ||mobgold.com^
@@ -72842,6 +72856,7 @@
 ||pl.carbon-tab.ethan.link^
 ||pl.codetheweb.blog^
 ||pl.connatix.com^
+||pl.cp31.ott.cibntv.net^
 ||pl.ethan.link^
 ||pl.fashmoms.com^
 ||pl.getfamealy.com^
@@ -75373,6 +75388,7 @@
 ||qogonsuqq.com^
 ||qogrux.com^
 ||qohlsl.drawer.fr^
+||qojrlxsbxvfqqx.com^
 ||qonbibff.icu^
 ||qonwdq.helmexpress.com^
 ||qoqv.com^
@@ -77730,6 +77746,7 @@
 ||rprinc6etodn9kunjiv.com^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
+||rps.hpplay.cn^
 ||rpsukimsjy.com^
 ||rpt.gdt.qq.com^
 ||rpt.kidsfootlocker.com^
@@ -78999,6 +79016,7 @@
 ||saam.gumtree.com.au^
 ||saametrics.aktia.fi^
 ||saametrics.vaisala.com^
+||saas.hpplay.cn^
 ||saas.stratitude.com^
 ||saas.valuetech.de^
 ||saat.dow.com^
@@ -81540,6 +81558,7 @@
 ||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
+||sheepcovings.top^
 ||sheerliteracyquestioning.com^
 ||sheeroop.com^
 ||sheeshumte.net^
@@ -81665,6 +81684,7 @@
 ||shop.myaeon2go.com^
 ||shop.vnay.vn^
 ||shopify-fast-tags.deliverr.com^
+||shopify-webhooks.sailthru.com^
 ||shopmetric.rediff.com^
 ||shopmonthtravel.com^
 ||shoppers-test.instacartemail.com^
@@ -86060,6 +86080,7 @@
 ||sosslereglair.shop^
 ||sotchoum.com^
 ||sotelsystems.actonservice.com^
+||sotetahe.pro^
 ||sothiacalain.com^
 ||sotunet.com^
 ||soubej.larebajavirtual.com^
@@ -86385,6 +86406,7 @@
 ||spirketgoofily.com^
 ||spirteddvaita.com^
 ||spirtssamnani.shop^
+||spitefulmotor.com^
 ||spitfulcapelet.com^
 ||spitinggigant.top^
 ||spitouspowter.top^
@@ -89826,6 +89848,7 @@
 ||sv-query.looksmart.com^
 ||sv-static-lottery.headlines.pw^
 ||sv-static1-lottery.headlines.pw^
+||sv-video.play.aiseet.atianqi.com^
 ||sv.isvn.space^
 ||sv2fo.icu^
 ||sv3.notifysrv.com^
@@ -90774,6 +90797,7 @@
 ||t7cp4fldl.com^
 ||t7t.icu^
 ||t7z.cupid.iqiyi.com^
+||t7z.cupid.ptqy.gitv.tv^
 ||t8.mailperformance.com^
 ||t810.ctpost.com^
 ||t85itha3nitde.com^
@@ -96831,6 +96855,7 @@
 ||twaglurtuh.xyz^
 ||twazzyoidwlfe.com^
 ||twch.femina.ch^
+||twcnmti.top^
 ||twdhec.marioeletro.com^
 ||tweakarrangement.com^
 ||tweedygirly.com^
@@ -98464,6 +98489,7 @@
 ||uuajq.top^
 ||uucatiqnd.com^
 ||uucnmtt.top^
+||uucnwtt.top^
 ||uudbvq.skuola.net^
 ||uue2.destinia.ir^
 ||uuhejd.snipes.es^
@@ -98673,6 +98699,7 @@
 ||valesweetheartconditions.com^
 ||valetsangoise.top^
 ||valewhatchy.top^
+||vali-ugc.cp31.ott.cibntv.net^
 ||valid-dad.com^
 ||validate.appsflyer.com^
 ||validclick.com^
@@ -98824,6 +98851,7 @@
 ||vd.contents.prod.eu.s3.amazonaws.com^
 ||vd.emp.prd.s3.amazonaws.com^
 ||vd.l.qq.com^
+||vd6.l.qq.com^
 ||vda.viettel.vn^
 ||vdacdn1.viettel.vn^
 ||vdacdn2.viettel.vn^
@@ -99056,6 +99084,7 @@
 ||vhzivz.xyz^
 ||vi-serve.com^
 ||vi.adviso.ca^
+||vi.l.qq.com^
 ||via.ssl.holdmybeerconsulting.com^
 ||viabeldumchan.com^
 ||viablegiant.com^
@@ -99113,6 +99142,7 @@
 ||video.dispatch.tc.qq.com^
 ||video.funnelbox.com^
 ||video.lookinews.com^
+||video.market.xiaomi.com^
 ||video.mpush.qq.com^
 ||video.streamtape.com^
 ||video.ureport.push.qq.com^
@@ -99251,6 +99281,7 @@
 ||vik3.lookinews.com^
 ||vik4.lookinews.com^
 ||vik5.lookinews.com^
+||vikawjobtar.com^
 ||vikingclan.kano.link^
 ||vikuhiaor.com^
 ||vilereasoning.com^
@@ -99301,6 +99332,7 @@
 ||viper.sitesauce.app^
 ||viperishly.com^
 ||vipgogo123.site^
+||vipgslb.hpplay.cn^
 ||viphirsaick.net^
 ||vipicmou.net^
 ||vipwao.nutrimuscle.com^
@@ -103366,6 +103398,7 @@
 ||xewihp.bayut.com^
 ||xfdmihlzrmks.com^
 ||xfileload.com^
+||xfjptlrwocfkx.one^
 ||xfmlp.com^
 ||xfobhesud.com^
 ||xfobuc.serenaandlily.com^
