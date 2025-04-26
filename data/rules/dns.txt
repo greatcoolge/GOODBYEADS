@@ -2,9 +2,9 @@
 ! Title: GOODBYEADS
 ! Homepage: https://github.com/8680/GOODBYEADS
 ! Expires: 12 Hours
-! Version: 2025-04-26 08:41:48（北京时间）
+! Version: 2025-04-26 20:14:13（北京时间）
 ! Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列
-! Total count: 105861
+! Total count: 105881
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.p2p.huya.com^
@@ -23862,6 +23862,7 @@
 ||ahshujhpyh.com^
 ||ahsjmiov.com^
 ||ahsxot.meaningfulbeauty.com^
+||ahtxyjmreuvv.com^
 ||ahuvjy.design-market.fr^
 ||ahvradotws.com^
 ||ahzqgr.au-sonpo.co.jp^
@@ -29171,6 +29172,7 @@
 ||ba31f372b1.6d0ce9a973.com^
 ||ba3b545f57.43541f6026.com^
 ||ba46b70722.com^
+||ba61261c39.com^
 ||ba7dea6a05.com^
 ||ba9e239613.dd0254aae5.com^
 ||baahnj.bezokularow.pl^
@@ -32289,7 +32291,6 @@
 ||c.gq.com^
 ||c.holmesmind.com^
 ||c.imedia.cz^
-||c.imrk.net^
 ||c.ipaddress.com^
 ||c.isdspeed.qq.com^
 ||c.ixi.to^
@@ -35049,6 +35050,7 @@
 ||cntxtfl.com^
 ||cnvmhzt.cn^
 ||cnwafglwlbcro.life^
+||cnwuamf.top^
 ||cnxddc.lodenfrey.com^
 ||cnxlskkkebks.xyz^
 ||cnzz.com^
@@ -36384,6 +36386,7 @@
 ||counter1.fc2.com^
 ||counter2.blog.livedoor.com^
 ||counter24.luxnet.ua^
+||counter247.live^
 ||counterfeitnearby.com^
 ||counters.booking.com^
 ||counters.freewebs.com^
@@ -40501,6 +40504,7 @@
 ||dharnaslaked.top^
 ||dhcmni6m2kkyw.cloudfront.net^
 ||dhdaa.duke.edu^
+||dheilgorsy.com^
 ||dheirzeh.com^
 ||dhemixu.com^
 ||dhepuldufahr.com^
@@ -41496,6 +41500,7 @@
 ||dnn4px252i5wx.cloudfront.net^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnpalh.xyz^
+||dnpgwweaiepdu.top^
 ||dnps.com^
 ||dnre5xkn2r25r.cloudfront.net^
 ||dns-clientinfo.vtg.paramount.tech^
@@ -43030,6 +43035,7 @@
 ||ecvjrxlrql.com^
 ||ecvmbusiness.mtn.co.za^
 ||ecxgjqjjkpsx.com^
+||ecywolaajvjpm.tech^
 ||ed-sys.net^
 ||ed.emp-online.ch^
 ||ed.emp-online.com^
@@ -44715,7 +44721,6 @@
 ||etargetnet.com^
 ||etbh.cn^
 ||etc.lxhausys.com^
-||etchantmegger.click^
 ||etemis.com^
 ||eteveredgove.info^
 ||etflpbk.com^
@@ -46780,6 +46785,7 @@
 ||florinsqrs.top^
 ||floroonwhun.com^
 ||flossdiversebates.com^
+||flossedmoiled.com^
 ||flotech.actonservice.com^
 ||flounderpillowspooky.com^
 ||flourishbriefing.com^
@@ -47565,6 +47571,7 @@
 ||ftylpm.com^
 ||ftysya.aboutyou.de^
 ||ftzets.silkfred.com^
+||fu-nu-ra.com^
 ||fuagewasho.top^
 ||fualujqbhqyn.xyz^
 ||fubsoughaigo.net^
@@ -47595,6 +47602,7 @@
 ||fuji.aomg5bzv7.com^
 ||fujifilmdb.fujifilmdiosynth.com^
 ||fujnrh.xyz^
+||fujolfgip.com^
 ||fujtaltapoz.com^
 ||fujukograhoard.net^
 ||fukpapsumvib.com^
@@ -48929,6 +48937,7 @@
 ||glaringregister.com^
 ||glashampouksy.net^
 ||glashanburg.com^
+||glasoabimpu.net^
 ||glass.autovistagroup.com^
 ||glass.notifysrv.com^
 ||glassbox-hlx-igw.bankofamerica.com^
@@ -54885,6 +54894,7 @@
 ||inksgurjun.top^
 ||inktad.com^
 ||inkubate.actonservice.com^
+||inlacesglisten.shop^
 ||inlautmanuao.top^
 ||inleadership.co.nz^
 ||inlog01.hket.com^
@@ -61985,6 +61995,7 @@
 ||mangerolympicssnort.com^
 ||mangoa.xyz^
 ||mangrao.club^
+||mangraox.my^
 ||mangtaoxa.xyz^
 ||manholethreatenvowel.com^
 ||maniasensiblecompound.com^
@@ -67110,6 +67121,7 @@
 ||msadsscale.azureedge.net^
 ||msafoy.eyebuydirect.com^
 ||msbainfo.fbe.hku.hk^
+||msboul.gruenwelt.de^
 ||msdk.qq.com^
 ||mseeru.faz.net^
 ||msehm.com^
@@ -67228,6 +67240,7 @@
 ||mucinyak.com^
 ||muckilywayback.top^
 ||mucnmtx.top^
+||mucnwtx.top^
 ||mucvvcbqrwfmir.com^
 ||mud4.destinia.com.eg^
 ||mudacban.com^
@@ -71198,6 +71211,7 @@
 ||owa.carhartt.com^
 ||owbroinothiermol.xyz^
 ||owcdilxy.xyz^
+||owcnmtk.top^
 ||oweeiyw.icu^
 ||oweisik.top^
 ||oweizak.top^
@@ -71679,6 +71693,7 @@
 ||palmmalice.com^
 ||palofvqp.com^
 ||palpablememoranduminvite.com^
+||palpslastre.shop^
 ||palramamericas.actonservice.com^
 ||palroudi.xyz^
 ||palsybrush.com^
@@ -72328,6 +72343,7 @@
 ||pestilenttidefilth.org^
 ||pet-recycling.husky.ca^
 ||petal.calyxflowers.com^
+||petardstaximan.shop^
 ||petargumentswhirlpool.com^
 ||petasmaeryops.com^
 ||petchesa.net^
@@ -82384,6 +82400,7 @@
 ||sluicehamate.com^
 ||slumberloandefine.com^
 ||sluptie.top^
+||slurpsbeets.com^
 ||slushdevastating.com^
 ||slushimplementedsystems.com^
 ||slutload.com/kvs-container/camsoda^
@@ -87187,6 +87204,7 @@
 ||sst.cooperativa.cl^
 ||sst.shopware.com^
 ||sst.thebanker.com^
+||sst.vrijopnaam.nl^
 ||sstat.3pagen.at^
 ||sstat.detelefoongids.nl^
 ||sstat.gilt.com^
@@ -89253,6 +89271,7 @@
 ||sternlythese.com^
 ||steroidbazaarbalance.com^
 ||stertordorab.com^
+||stesywijy.com^
 ||stethepsartopo.com^
 ||stevesmovies.com^
 ||stewomelettegrand.com^
@@ -92537,6 +92556,7 @@
 ||timetableitemvariables.com^
 ||timetoagree.com^
 ||timetrpchines.top^
+||timidseducingcorpse.com^
 ||timing.uhrforum.de^
 ||timing.whenandhowagency.com^
 ||timmerintice.com^
@@ -94679,7 +94699,6 @@
 ||track.cordial.io^
 ||track.cornerstonebuildingbrands.com^
 ||track.craudia.com^
-||track.datescan.info^
 ||track.deloitte.com^
 ||track.dictionary.com^
 ||track.digitalriver.com^
@@ -97611,6 +97630,7 @@
 ||um.contentstudio.io^
 ||um5xcgngmart.xyz^
 ||umami.aigenerations.net^
+||umami.askrella.de^
 ||umami.heroku.uk^
 ||umami.subdavis.com^
 ||umami.wakarimasen.moe^
@@ -98885,6 +98905,7 @@
 ||vampirebat.febolos.es^
 ||vampirebat.git-tower.com^
 ||vampirebat.tinamrak.com^
+||vampiresubscription.com^
 ||vamqt.vip^
 ||vandalismundermineshock.com^
 ||vanderebony.pro^
@@ -100356,7 +100377,6 @@
 ||waubibubaiz.com^
 ||waudeesestew.com^
 ||waufooke.com^
-||waugauwhaigrur.net^
 ||waugique.net^
 ||wauhoawheephouk.net^
 ||waust.at^
